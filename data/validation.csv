@@ -1,0 +1,3975 @@
+user_id,item_description,date
+1000,salty snack,2014-06-24
+1001,soda,2015-01-20
+1002,other vegetables,2014-09-02
+1003,detergent,2014-10-15
+1004,whole milk,2014-10-13
+1004,chocolate,2014-10-13
+1004,rolls/buns,2014-10-13
+1005,rolls/buns,2014-09-01
+1006,skin care,2014-11-07
+1009,cocoa drinks,2014-01-24
+1010,sliced cheese,2014-10-04
+1011,rolls/buns,2014-02-15
+1012,brown bread,2014-06-22
+1013,root vegetables,2014-12-11
+1013,mayonnaise,2014-12-11
+1014,rolls/buns,2014-06-10
+1015,chocolate,2014-06-28
+1017,pet care,2014-10-14
+1018,cake bar,2014-05-27
+1019,red/blush wine,2014-10-12
+1020,shopping bags,2014-12-08
+1021,butter,2014-05-30
+1022,fruit/vegetable juice,2014-07-06
+1023,specialty bar,2014-12-30
+1025,cream cheese ,2014-10-03
+1026,yogurt,2014-08-23
+1027,bottled water,2014-09-22
+1028,butter,2014-10-11
+1031,pot plants,2014-04-03
+1032,shopping bags,2014-09-23
+1033,rolls/buns,2014-04-21
+1034,newspapers,2014-05-13
+1035,salt,2014-08-15
+1036,vinegar,2014-01-20
+1037,cake bar,2014-06-06
+1038,napkins,2014-01-28
+1040,white bread,2014-10-24
+1041,dessert,2014-07-07
+1043,chocolate marshmallow,2014-06-16
+1045,yogurt,2014-12-01
+1047,soda,2014-12-17
+1049,whole milk,2015-01-07
+1050,other vegetables,2014-12-10
+1050,dishes,2014-12-10
+1051,shopping bags,2014-12-26
+1052,whole milk,2014-10-13
+1052,bottled water,2014-11-20
+1052,chewing gum,2014-11-20
+1053,other vegetables,2014-10-12
+1053,whole milk,2014-10-12
+1054,fruit/vegetable juice,2014-01-16
+1055,white wine,2014-05-08
+1056,whole milk,2014-09-24
+1057,UHT-milk,2014-08-06
+1058,root vegetables,2014-07-08
+1059,spread cheese,2014-11-06
+1061,dessert,2014-10-23
+1062,frozen fruits,2014-08-05
+1063,citrus fruit,2014-07-06
+1064,rolls/buns,2014-04-21
+1065,red/blush wine,2014-12-25
+1065,frozen fish,2014-12-25
+1066,shopping bags,2014-12-06
+1068,spread cheese,2015-01-07
+1069,domestic eggs,2014-12-18
+1070,red/blush wine,2014-10-04
+1071,fruit/vegetable juice,2014-09-26
+1072,other vegetables,2014-06-23
+1073,domestic eggs,2014-05-06
+1074,shopping bags,2014-08-05
+1075,canned fish,2014-06-19
+1076,brown bread,2014-12-24
+1077,rolls/buns,2014-12-30
+1077,root vegetables,2014-12-30
+1078,soda,2014-08-28
+1079,sweet spreads,2014-07-10
+1080,soda,2014-02-11
+1081,yogurt,2014-11-02
+1082,other vegetables,2014-05-13
+1083,whole milk,2014-11-15
+1084,other vegetables,2014-04-18
+1085,newspapers,2014-05-25
+1086,whipped/sour cream,2014-10-12
+1087,soda,2014-12-16
+1087,flower (seeds),2014-12-16
+1087,jam,2014-12-16
+1088,berries,2015-01-14
+1089,sauces,2014-05-12
+1092,newspapers,2014-10-12
+1094,detergent,2014-11-12
+1094,flour,2014-11-12
+1095,flour,2014-06-08
+1097,soda,2015-01-11
+1097,curd,2015-01-11
+1098,cat food,2015-01-19
+1099,instant coffee,2014-08-29
+1100,yogurt,2014-12-18
+1101,whipped/sour cream,2014-12-28
+1102,brown bread,2014-09-30
+1103,ice cream,2014-12-07
+1103,herbs,2014-12-07
+1104,root vegetables,2014-09-05
+1105,white bread,2014-06-14
+1107,citrus fruit,2015-01-10
+1107,misc. beverages,2015-01-10
+1108,oil,2014-08-22
+1109,pastry,2014-11-22
+1110,salty snack,2014-11-12
+1111,sugar,2014-10-24
+1113,newspapers,2014-07-01
+1114,citrus fruit,2014-12-14
+1115,yogurt,2014-09-15
+1116,other vegetables,2014-11-08
+1116,zwieback,2014-11-08
+1118,condensed milk,2014-09-12
+1120,white bread,2015-01-14
+1121,shopping bags,2014-03-15
+1122,dishes,2014-09-25
+1123,whole milk,2014-12-28
+1124,soda,2014-08-23
+1125,margarine,2014-09-12
+1126,whipped/sour cream,2014-02-11
+1127,margarine,2015-01-14
+1128,white bread,2014-10-05
+1129,cream cheese ,2014-12-21
+1129,specialty chocolate,2014-12-21
+1130,cream cheese ,2015-01-15
+1132,whole milk,2014-11-22
+1133,shopping bags,2014-03-21
+1134,yogurt,2014-11-05
+1136,tropical fruit,2014-09-28
+1136,other vegetables,2014-09-28
+1137,canned beer,2014-05-16
+1138,napkins,2014-07-07
+1139,misc. beverages,2015-01-19
+1140,waffles,2015-01-05
+1141,white bread,2014-12-15
+1142,napkins,2014-10-13
+1143,pickled vegetables,2014-11-18
+1144,white bread,2015-01-16
+1145,soda,2014-09-13
+1146,bottled water,2014-12-07
+1146,shopping bags,2014-12-07
+1146,waffles,2014-12-07
+1147,canned fish,2014-11-16
+1148,yogurt,2015-01-14
+1150,berries,2014-08-29
+1151,soft cheese,2014-12-12
+1152,soda,2014-12-26
+1153,bottled beer,2014-10-08
+1153,ready soups,2014-10-08
+1154,rolls/buns,2014-05-15
+1155,yogurt,2015-01-04
+1157,whole milk,2014-04-10
+1158,bottled water,2014-02-19
+1159,domestic eggs,2014-06-02
+1160,root vegetables,2014-06-02
+1161,bottled beer,2014-01-26
+1162,red/blush wine,2014-08-20
+1162,salty snack,2014-08-20
+1163,bottled water,2014-11-03
+1164,sliced cheese,2015-01-02
+1165,whole milk,2014-02-05
+1166,tropical fruit,2014-03-06
+1167,other vegetables,2014-01-11
+1168,long life bakery product,2014-10-31
+1169,newspapers,2014-05-29
+1169,whipped/sour cream,2014-05-29
+1169,cake bar,2014-12-15
+1169,bottled beer,2014-12-15
+1170,pip fruit,2015-01-12
+1171,beverages,2015-01-15
+1173,newspapers,2014-07-08
+1174,cling film/bags,2014-12-29
+1175,oil,2014-09-20
+1176,domestic eggs,2014-11-21
+1176,curd cheese,2014-11-21
+1178,shopping bags,2014-06-15
+1179,napkins,2014-11-09
+1180,white bread,2014-08-24
+1181,mayonnaise,2014-10-23
+1182,whole milk,2015-01-09
+1182,soft cheese,2015-01-09
+1184,newspapers,2014-06-24
+1185,chewing gum,2014-09-28
+1186,butter,2014-09-02
+1187,domestic eggs,2014-09-11
+1188,bottled beer,2014-11-21
+1189,sliced cheese,2014-04-07
+1190,other vegetables,2014-11-25
+1190,meat spreads,2014-11-25
+1191,white bread,2014-10-03
+1192,pastry,2014-12-27
+1193,shopping bags,2014-02-16
+1194,napkins,2014-02-27
+1195,shopping bags,2014-08-14
+1196,newspapers,2014-08-15
+1197,chocolate,2015-01-16
+1198,specialty chocolate,2014-07-29
+1199,rolls/buns,2014-03-23
+1200,detergent,2014-02-27
+1201,coffee,2014-11-24
+1202,roll products ,2014-07-29
+1204,softener,2014-12-01
+1204,chocolate,2014-12-01
+1205,curd,2014-12-08
+1206,candles,2014-03-02
+1207,semi-finished bread,2014-09-12
+1208,yogurt,2014-10-25
+1209,specialty cheese,2014-11-11
+1211,whole milk,2014-12-13
+1212,domestic eggs,2014-05-25
+1214,waffles,2014-08-07
+1215,sliced cheese,2015-01-18
+1216,long life bakery product,2014-07-02
+1217,sugar,2014-07-21
+1218,citrus fruit,2014-08-05
+1219,instant coffee,2014-03-07
+1220,chocolate,2015-01-01
+1221,bottled water,2014-11-15
+1223,yogurt,2014-11-18
+1224,specialty chocolate,2014-09-20
+1225,seasonal products,2014-11-29
+1227,whipped/sour cream,2014-08-05
+1229,brown bread,2014-07-26
+1230,canned beer,2014-12-17
+1231,soda,2014-11-23
+1232,bottled water,2015-01-07
+1233,shopping bags,2014-09-06
+1234,pastry,2014-12-05
+1235,sausage,2015-01-01
+1235,bottled beer,2015-01-01
+1235,spread cheese,2015-01-01
+1236,dishes,2014-06-27
+1237,citrus fruit,2014-12-03
+1237,other vegetables,2014-12-03
+1238,margarine,2015-01-03
+1239,soda,2014-04-18
+1240,shopping bags,2014-11-27
+1241,specialty cheese,2014-11-01
+1242,chocolate,2014-12-16
+1243,cling film/bags,2014-08-01
+1244,shopping bags,2014-11-25
+1245,soft cheese,2014-12-07
+1246,UHT-milk,2014-12-29
+1247,candy,2014-08-06
+1248,root vegetables,2014-09-05
+1248,frozen vegetables,2014-09-05
+1249,bottled beer,2014-11-10
+1250,chewing gum,2014-08-10
+1252,other vegetables,2014-08-28
+1253,liqueur,2014-01-03
+1254,napkins,2014-03-03
+1255,red/blush wine,2014-09-26
+1256,other vegetables,2014-10-14
+1257,yogurt,2014-09-16
+1258,whipped/sour cream,2014-09-08
+1259,coffee,2014-10-06
+1260,curd,2014-09-07
+1261,flower (seeds),2014-06-10
+1262,sugar,2014-12-07
+1263,other vegetables,2014-11-05
+1264,butter,2014-11-12
+1265,other vegetables,2015-01-19
+1265,domestic eggs,2015-01-19
+1266,sliced cheese,2014-08-27
+1267,whole milk,2014-05-15
+1268,canned fish,2014-10-19
+1269,canned fruit,2014-07-10
+1270,flower soil/fertilizer,2014-12-07
+1272,cleaner,2014-07-27
+1274,specialty cheese,2014-10-07
+1275,citrus fruit,2014-10-06
+1275,pastry,2014-10-06
+1276,house keeping products,2014-07-06
+1277,rolls/buns,2015-01-12
+1278,photo/film,2014-06-09
+1279,soda,2014-08-25
+1280,ice cream,2014-04-17
+1281,hamburger meat,2014-07-28
+1282,snack products,2014-10-24
+1283,bottled water,2014-09-02
+1284,rolls/buns,2014-06-26
+1285,pastry,2014-10-27
+1285,soda,2014-10-27
+1286,chewing gum,2014-12-19
+1287,flower (seeds),2014-08-11
+1288,rolls/buns,2014-09-28
+1289,prosecco,2014-10-08
+1290,margarine,2014-02-18
+1291,rolls/buns,2015-01-14
+1293,light bulbs,2015-01-03
+1294,whipped/sour cream,2014-12-22
+1294,soft cheese,2014-12-22
+1295,soda,2014-03-13
+1296,bottled beer,2014-12-14
+1297,napkins,2014-12-13
+1298,rolls/buns,2014-07-26
+1299,white bread,2014-11-20
+1300,yogurt,2014-04-09
+1301,roll products ,2014-01-30
+1302,bottled water,2014-11-22
+1303,pastry,2014-10-28
+1304,other vegetables,2014-07-06
+1305,root vegetables,2014-07-26
+1307,brown bread,2014-12-15
+1308,whole milk,2014-11-23
+1309,tropical fruit,2015-01-04
+1309,cocoa drinks,2015-01-04
+1310,salty snack,2014-11-22
+1311,rolls/buns,2014-01-14
+1312,hamburger meat,2014-12-13
+1312,butter,2014-12-13
+1314,ice cream,2014-05-09
+1315,hygiene articles,2014-11-12
+1316,curd,2014-05-31
+1317,other vegetables,2014-07-26
+1318,yogurt,2014-02-15
+1320,root vegetables,2015-01-19
+1320,canned fruit,2015-01-19
+1321,soda,2014-11-07
+1322,female sanitary products,2014-11-12
+1323,whole milk,2014-06-18
+1325,soda,2014-04-30
+1327,grapes,2014-12-14
+1327,rolls/buns,2014-12-14
+1328,cream cheese ,2014-08-14
+1329,domestic eggs,2014-02-22
+1330,curd,2014-11-02
+1331,fruit/vegetable juice,2014-06-04
+1332,hard cheese,2014-07-16
+1333,other vegetables,2014-11-27
+1335,coffee,2015-01-16
+1336,napkins,2014-01-23
+1337,napkins,2014-06-08
+1338,canned beer,2014-11-08
+1339,vinegar,2014-05-25
+1340,flour,2014-12-28
+1341,pastry,2014-08-11
+1342,margarine,2014-08-20
+1343,other vegetables,2015-01-11
+1343,specialty chocolate,2015-01-11
+1344,syrup,2014-01-28
+1345,shopping bags,2014-08-04
+1346,rolls/buns,2014-09-04
+1347,semi-finished bread,2014-07-22
+1349,cat food,2014-12-13
+1350,whole milk,2014-03-09
+1351,coffee,2014-01-15
+1352,bottled water,2014-03-03
+1353,chewing gum,2014-12-27
+1354,frozen vegetables,2015-01-12
+1355,ice cream,2014-03-29
+1356,berries,2014-12-19
+1358,newspapers,2014-12-15
+1359,newspapers,2014-05-29
+1360,processed cheese,2014-06-17
+1361,rolls/buns,2014-12-13
+1362,mustard,2014-03-01
+1363,hard cheese,2015-01-15
+1364,bottled water,2014-11-08
+1365,butter milk,2014-09-15
+1366,sweet spreads,2014-08-29
+1367,bottled beer,2014-01-31
+1369,waffles,2014-08-02
+1370,pastry,2014-09-09
+1371,misc. beverages,2014-08-17
+1372,cream cheese ,2014-04-05
+1373,soda,2014-04-28
+1374,chewing gum,2014-11-09
+1376,chocolate marshmallow,2014-11-29
+1377,tea,2014-11-12
+1378,soft cheese,2014-10-12
+1379,other vegetables,2015-01-07
+1379,pip fruit,2015-01-07
+1379,chocolate,2015-01-07
+1380,cat food,2014-04-22
+1381,pastry,2014-07-05
+1382,rolls/buns,2014-08-05
+1383,rolls/buns,2014-08-25
+1384,cling film/bags,2014-09-28
+1385,berries,2014-03-28
+1386,sugar,2014-12-21
+1387,shopping bags,2014-05-31
+1388,newspapers,2014-11-19
+1389,pickled vegetables,2014-11-13
+1390,cream cheese ,2014-07-31
+1391,chocolate,2015-01-08
+1392,curd,2014-12-09
+1393,red/blush wine,2014-08-26
+1395,curd,2015-01-15
+1395,fruit/vegetable juice,2015-01-15
+1396,brown bread,2014-03-12
+1398,domestic eggs,2014-08-23
+1399,canned vegetables,2014-10-12
+1400,fruit/vegetable juice,2014-11-10
+1402,sliced cheese,2014-10-14
+1403,fruit/vegetable juice,2014-11-01
+1404,semi-finished bread,2015-01-16
+1405,bottled beer,2014-05-14
+1407,domestic eggs,2014-10-09
+1408,soda,2015-01-03
+1410,other vegetables,2014-12-25
+1410,waffles,2014-12-25
+1410,rolls/buns,2014-12-25
+1410,chocolate,2014-12-25
+1411,shopping bags,2014-04-15
+1412,shopping bags,2014-08-21
+1413,soda,2014-12-14
+1415,domestic eggs,2014-12-28
+1416,onions,2014-08-23
+1417,cream cheese ,2014-10-14
+1418,bottled water,2014-06-30
+1419,coffee,2014-12-03
+1419,salty snack,2014-12-03
+1420,oil,2015-01-14
+1421,shopping bags,2014-12-26
+1422,salty snack,2015-01-01
+1423,syrup,2014-10-13
+1424,other vegetables,2014-04-04
+1425,newspapers,2014-06-24
+1426,specialty chocolate,2014-11-18
+1427,sliced cheese,2014-12-06
+1428,whole milk,2015-01-18
+1428,yogurt,2015-01-18
+1429,bottled beer,2014-10-19
+1430,waffles,2014-12-01
+1431,rolls/buns,2014-10-13
+1432,bottled beer,2014-12-03
+1433,brown bread,2014-09-22
+1434,condensed milk,2014-11-28
+1435,prosecco,2015-01-14
+1435,fruit/vegetable juice,2015-01-14
+1436,chocolate marshmallow,2015-01-03
+1437,domestic eggs,2014-03-15
+1438,coffee,2014-05-18
+1440,rolls/buns,2014-07-26
+1442,yogurt,2014-07-28
+1443,dessert,2014-08-25
+1444,newspapers,2014-07-03
+1445,bottled water,2014-04-13
+1446,curd,2014-07-05
+1447,fruit/vegetable juice,2014-05-06
+1448,frozen vegetables,2014-05-07
+1449,other vegetables,2014-07-18
+1450,other vegetables,2014-11-17
+1451,processed cheese,2014-08-28
+1452,mayonnaise,2014-05-31
+1453,margarine,2014-11-21
+1454,rolls/buns,2015-01-13
+1456,shopping bags,2014-12-08
+1457,root vegetables,2014-12-05
+1457,white bread,2014-12-05
+1458,rolls/buns,2014-10-20
+1460,napkins,2015-01-13
+1461,bottled beer,2014-11-08
+1462,whipped/sour cream,2014-09-24
+1463,other vegetables,2014-11-17
+1465,yogurt,2014-09-26
+1466,mayonnaise,2015-01-12
+1466,sausage,2015-01-12
+1466,other vegetables,2015-01-12
+1466,seasonal products,2015-01-12
+1468,yogurt,2014-12-07
+1468,bottled water,2014-12-07
+1469,salty snack,2014-08-28
+1470,fruit/vegetable juice,2014-11-06
+1471,whole milk,2014-08-21
+1472,sliced cheese,2014-10-06
+1473,long life bakery product,2014-10-10
+1474,chocolate,2014-10-04
+1475,frozen potato products,2014-09-21
+1476,UHT-milk,2014-05-11
+1477,other vegetables,2014-11-21
+1478,cream cheese ,2014-12-26
+1479,liquor (appetizer),2014-04-24
+1480,bottled water,2014-12-22
+1481,pip fruit,2015-01-17
+1482,brown bread,2014-10-22
+1483,tropical fruit,2015-01-04
+1483,sausage,2015-01-04
+1486,oil,2014-11-30
+1487,fruit/vegetable juice,2014-09-04
+1488,white bread,2014-06-22
+1489,brown bread,2014-06-01
+1490,soft cheese,2014-10-18
+1491,other vegetables,2014-08-11
+1492,cat food,2015-01-20
+1493,spices,2015-01-10
+1494,cat food,2014-11-23
+1495,misc. beverages,2014-10-11
+1496,hygiene articles,2014-04-26
+1497,tea,2014-05-26
+1498,baking powder,2014-10-29
+1499,sliced cheese,2014-11-05
+1500,pasta,2014-09-26
+1501,butter,2014-08-28
+1504,chocolate,2014-12-29
+1506,oil,2014-12-25
+1507,flower (seeds),2014-09-14
+1507,honey,2014-09-14
+1508,yogurt,2014-09-28
+1509,yogurt,2014-09-07
+1510,domestic eggs,2014-12-24
+1510,candy,2014-12-24
+1511,curd,2014-08-28
+1512,fruit/vegetable juice,2014-04-29
+1513,bottled beer,2014-05-29
+1514,shopping bags,2014-02-26
+1515,soda,2014-09-03
+1516,shopping bags,2014-02-20
+1517,rolls/buns,2015-01-08
+1517,rolls/buns,2015-01-08
+1519,oil,2014-10-28
+1520,berries,2014-04-30
+1521,cat food,2014-12-26
+1522,margarine,2014-12-24
+1522,frozen meals,2014-12-24
+1522,yogurt,2014-12-24
+1523,brown bread,2014-09-11
+1524,brown bread,2014-06-02
+1525,bottled water,2014-10-25
+1526,cat food,2014-11-05
+1527,soda,2014-04-15
+1528,cream cheese ,2014-12-06
+1529,bottled water,2014-05-29
+1530,condensed milk,2014-11-10
+1531,pickled vegetables,2015-01-19
+1532,yogurt,2014-11-10
+1533,red/blush wine,2014-10-02
+1534,pastry,2014-05-11
+1535,soda,2015-01-14
+1536,tropical fruit,2014-07-30
+1537,yogurt,2015-01-02
+1538,dessert,2014-12-06
+1540,pastry,2014-11-27
+1542,popcorn,2014-09-13
+1544,brown bread,2014-04-24
+1545,hair spray,2014-01-04
+1546,sugar,2014-03-10
+1547,long life bakery product,2014-09-03
+1548,bottled beer,2014-04-05
+1549,bottled water,2014-07-17
+1550,cereals,2014-05-05
+1551,rolls/buns,2015-01-14
+1552,baby cosmetics,2014-09-01
+1553,soda,2014-09-05
+1553,coffee,2014-09-05
+1554,brown bread,2014-10-27
+1556,soft cheese,2014-05-31
+1557,chocolate,2014-10-12
+1559,other vegetables,2014-09-08
+1560,salty snack,2014-05-16
+1561,onions,2014-10-17
+1561,canned beer,2014-10-17
+1562,soda,2014-07-30
+1563,sliced cheese,2014-11-03
+1564,pip fruit,2014-11-15
+1565,chocolate,2014-10-30
+1566,other vegetables,2014-06-28
+1566,curd,2014-06-28
+1567,pot plants,2015-01-04
+1568,coffee,2014-09-03
+1569,fruit/vegetable juice,2014-09-03
+1571,onions,2014-11-17
+1572,finished products,2014-08-13
+1572,frozen vegetables,2014-08-13
+1573,other vegetables,2014-05-18
+1574,other vegetables,2014-11-30
+1574,frozen fish,2014-12-02
+1574,bottled beer,2014-12-02
+1575,shopping bags,2014-09-20
+1578,newspapers,2014-11-29
+1579,canned beer,2014-06-15
+1580,canned beer,2014-11-09
+1581,butter,2014-06-17
+1582,sparkling wine,2014-10-06
+1583,bottled water,2014-11-27
+1584,pastry,2014-12-28
+1585,margarine,2014-10-16
+1586,hard cheese,2014-11-03
+1587,hard cheese,2015-01-07
+1587,bottled beer,2015-01-07
+1588,dishes,2015-01-19
+1589,butter,2014-11-01
+1590,pip fruit,2014-06-21
+1591,oil,2014-12-29
+1592,rolls/buns,2014-11-28
+1593,onions,2014-02-20
+1594,yogurt,2014-05-28
+1595,nut snack,2014-09-11
+1596,margarine,2014-12-10
+1597,oil,2014-12-23
+1598,soda,2014-07-18
+1599,candy,2014-10-10
+1601,frozen vegetables,2014-09-08
+1602,other vegetables,2014-12-17
+1602,whipped/sour cream,2014-12-17
+1603,sugar,2014-03-16
+1604,specialty bar,2014-03-02
+1605,whole milk,2014-11-13
+1606,canned beer,2014-12-01
+1607,rolls/buns,2014-12-10
+1608,whole milk,2014-07-26
+1609,sugar,2014-12-21
+1610,cream cheese ,2014-12-23
+1611,yogurt,2014-03-18
+1612,ice cream,2014-12-25
+1612,soups,2014-12-25
+1613,salt,2014-11-19
+1615,bottled water,2014-11-30
+1616,ham,2015-01-19
+1616,coffee,2015-01-19
+1617,dish cleaner,2014-07-20
+1618,cream cheese ,2014-11-17
+1618,mustard,2014-11-17
+1619,whipped/sour cream,2014-09-21
+1620,cream cheese ,2014-07-21
+1621,butter milk,2014-08-28
+1621,photo/film,2014-08-28
+1622,salty snack,2014-06-24
+1623,specialty chocolate,2015-01-18
+1623,roll products ,2015-01-18
+1624,beverages,2014-08-18
+1625,frozen meals,2014-12-24
+1625,jam,2014-12-24
+1627,fruit/vegetable juice,2014-11-08
+1628,hamburger meat,2014-11-13
+1628,white bread,2014-11-13
+1629,whole milk,2014-07-22
+1630,rolls/buns,2014-10-22
+1632,white bread,2014-05-30
+1633,shopping bags,2014-05-07
+1634,yogurt,2015-01-16
+1635,shopping bags,2014-12-20
+1636,hygiene articles,2014-09-07
+1638,chewing gum,2014-08-14
+1639,female sanitary products,2014-08-23
+1640,newspapers,2014-08-03
+1641,hygiene articles,2014-11-08
+1642,yogurt,2014-09-28
+1643,soda,2014-12-04
+1644,napkins,2014-07-13
+1645,waffles,2014-05-10
+1646,sparkling wine,2014-11-15
+1647,flour,2014-11-20
+1648,pastry,2015-01-05
+1649,newspapers,2014-11-24
+1650,misc. beverages,2014-06-27
+1651,canned vegetables,2014-08-20
+1652,beef,2014-06-19
+1652,curd,2014-06-19
+1653,newspapers,2014-12-27
+1653,cream cheese ,2014-12-27
+1653,long life bakery product,2014-12-27
+1654,pip fruit,2014-11-26
+1654,other vegetables,2014-11-26
+1655,rolls/buns,2014-12-01
+1657,whole milk,2014-12-05
+1658,female sanitary products,2014-09-08
+1659,frozen dessert,2014-12-25
+1660,domestic eggs,2014-06-15
+1661,sliced cheese,2015-01-06
+1661,pip fruit,2015-01-06
+1662,fruit/vegetable juice,2014-01-27
+1663,rolls/buns,2014-02-24
+1664,curd,2015-01-04
+1664,canned vegetables,2015-01-04
+1665,canned beer,2014-08-20
+1666,flower (seeds),2014-05-13
+1668,bottled water,2014-07-25
+1672,white bread,2014-01-26
+1673,grapes,2014-08-04
+1674,margarine,2014-07-06
+1676,tropical fruit,2014-11-11
+1677,seasonal products,2014-08-24
+1678,onions,2015-01-08
+1679,cake bar,2014-10-23
+1680,soda,2014-10-12
+1681,bottled water,2014-06-07
+1682,canned beer,2015-01-11
+1682,seasonal products,2015-01-11
+1684,white bread,2014-02-26
+1685,waffles,2014-10-18
+1686,candles,2014-12-04
+1687,coffee,2014-10-17
+1687,pastry,2014-10-17
+1689,whole milk,2014-09-19
+1690,citrus fruit,2014-10-03
+1690,yogurt,2014-10-03
+1692,chewing gum,2014-12-06
+1692,cake bar,2014-12-06
+1693,rolls/buns,2014-09-02
+1694,butter,2014-07-27
+1696,chewing gum,2015-01-03
+1697,other vegetables,2014-06-15
+1698,yogurt,2014-01-17
+1699,hygiene articles,2014-01-25
+1700,shopping bags,2014-05-11
+1702,whole milk,2015-01-14
+1702,bottled beer,2015-01-14
+1703,frozen vegetables,2014-02-08
+1705,sauces,2014-05-05
+1706,soda,2014-11-13
+1707,brown bread,2014-12-22
+1708,whole milk,2014-09-07
+1709,coffee,2014-08-22
+1710,rolls/buns,2014-08-03
+1711,yogurt,2014-12-15
+1712,rice,2014-12-04
+1714,zwieback,2014-01-22
+1715,domestic eggs,2014-10-18
+1716,bottled water,2014-11-08
+1717,bottled water,2014-07-26
+1718,rolls/buns,2014-03-12
+1719,bottled water,2014-11-14
+1720,shopping bags,2014-09-13
+1721,soda,2014-07-03
+1722,soda,2014-12-07
+1723,shopping bags,2014-07-21
+1724,coffee,2014-04-04
+1725,yogurt,2014-10-27
+1726,detergent,2014-05-15
+1727,brown bread,2014-11-08
+1728,processed cheese,2014-10-18
+1729,whole milk,2015-01-08
+1730,napkins,2014-08-19
+1731,salt,2014-12-28
+1732,flour,2014-03-04
+1733,newspapers,2014-02-27
+1734,beverages,2014-08-17
+1735,napkins,2014-06-08
+1736,soda,2014-11-03
+1737,detergent,2014-08-28
+1738,liquor (appetizer),2014-10-08
+1739,photo/film,2014-11-09
+1740,yogurt,2014-11-07
+1740,ham,2014-11-21
+1740,curd cheese,2014-11-21
+1741,liver loaf,2014-12-07
+1741,other vegetables,2014-12-07
+1742,mustard,2014-10-20
+1743,whipped/sour cream,2014-01-17
+1745,yogurt,2014-03-22
+1746,cream cheese ,2014-10-23
+1747,canned beer,2014-12-17
+1747,red/blush wine,2014-12-17
+1748,soda,2014-12-03
+1748,root vegetables,2014-12-03
+1749,baking powder,2014-09-12
+1750,newspapers,2014-09-06
+1751,oil,2014-04-09
+1752,other vegetables,2014-12-07
+1753,whole milk,2014-12-12
+1753,rolls/buns,2014-12-12
+1754,bottled water,2014-07-06
+1755,spread cheese,2014-04-06
+1756,skin care,2014-09-22
+1757,whole milk,2014-03-30
+1758,pickled vegetables,2014-12-24
+1759,flour,2014-07-28
+1760,fruit/vegetable juice,2014-09-21
+1761,pudding powder,2014-10-29
+1761,mustard,2014-10-29
+1762,bottled beer,2015-01-07
+1764,butter,2014-09-20
+1765,baking powder,2014-12-06
+1766,specialty chocolate,2014-04-15
+1767,shopping bags,2014-12-18
+1768,fruit/vegetable juice,2014-11-20
+1769,canned vegetables,2014-07-16
+1770,waffles,2014-09-14
+1771,cream cheese ,2014-03-10
+1772,canned beer,2014-11-13
+1773,detergent,2015-01-11
+1774,white bread,2014-11-26
+1774,salty snack,2014-11-26
+1776,butter,2014-04-28
+1777,sugar,2014-02-04
+1778,whole milk,2014-12-22
+1779,rolls/buns,2014-07-06
+1780,whole milk,2014-07-10
+1781,yogurt,2014-03-15
+1782,napkins,2015-01-08
+1783,specialty chocolate,2014-12-05
+1784,rolls/buns,2014-05-09
+1785,other vegetables,2014-05-25
+1786,frozen vegetables,2014-12-06
+1787,long life bakery product,2014-06-07
+1788,brown bread,2014-09-19
+1789,newspapers,2014-10-09
+1791,cream cheese ,2014-05-08
+1792,chocolate marshmallow,2014-11-24
+1793,frozen vegetables,2014-12-14
+1794,soda,2014-04-14
+1795,dessert,2014-05-20
+1796,whole milk,2014-11-15
+1796,rolls/buns,2014-11-15
+1797,root vegetables,2014-11-14
+1797,sliced cheese,2014-11-14
+1798,beef,2015-01-01
+1798,pastry,2015-01-01
+1798,curd,2015-01-01
+1799,pastry,2014-12-16
+1800,white wine,2014-08-30
+1801,rolls/buns,2014-11-19
+1803,chocolate,2014-10-25
+1805,mustard,2014-11-11
+1806,shopping bags,2014-06-20
+1807,popcorn,2014-08-20
+1808,napkins,2014-12-15
+1809,soda,2014-10-27
+1810,cat food,2014-10-13
+1810,newspapers,2014-10-13
+1811,butter milk,2014-11-13
+1811,domestic eggs,2014-11-13
+1813,brown bread,2014-01-12
+1814,whole milk,2014-07-25
+1815,bottled water,2015-01-13
+1816,soda,2014-09-01
+1816,whole milk,2014-09-01
+1817,whole milk,2014-11-15
+1817,canned vegetables,2014-11-15
+1818,frozen vegetables,2014-12-04
+1819,fruit/vegetable juice,2014-12-22
+1820,butter milk,2014-11-01
+1821,butter milk,2014-01-13
+1822,soda,2014-05-06
+1823,cling film/bags,2014-04-16
+1824,sugar,2015-01-11
+1825,whole milk,2014-07-01
+1826,soda,2014-12-19
+1827,whole milk,2015-01-07
+1827,soda,2015-01-07
+1827,yogurt,2015-01-07
+1828,dessert,2014-12-06
+1829,mustard,2014-12-10
+1830,other vegetables,2015-01-16
+1831,chocolate,2014-12-13
+1832,bottled beer,2014-08-21
+1833,margarine,2014-10-20
+1834,baking powder,2014-12-21
+1835,pip fruit,2015-01-04
+1836,margarine,2014-10-23
+1837,long life bakery product,2014-02-27
+1838,salty snack,2014-06-19
+1839,bottled beer,2014-10-04
+1840,instant coffee,2014-12-28
+1841,sugar,2014-12-16
+1842,newspapers,2014-05-30
+1843,tea,2014-09-24
+1844,yogurt,2014-10-04
+1847,rolls/buns,2014-10-01
+1848,soda,2014-09-20
+1849,shopping bags,2014-06-10
+1850,margarine,2014-12-03
+1851,root vegetables,2014-12-02
+1852,cake bar,2014-08-09
+1852,shopping bags,2014-08-09
+1853,candy,2014-07-06
+1854,frozen fish,2014-11-03
+1855,salty snack,2014-09-26
+1856,curd,2014-10-23
+1859,softener,2014-05-11
+1860,semi-finished bread,2014-07-26
+1862,pasta,2014-10-27
+1863,newspapers,2014-11-24
+1864,softener,2014-04-29
+1865,brown bread,2014-06-06
+1866,specialty chocolate,2014-09-02
+1867,detergent,2014-11-19
+1868,chocolate,2014-03-19
+1869,misc. beverages,2014-12-20
+1870,specialty chocolate,2014-10-06
+1870,rolls/buns,2014-10-06
+1871,cream cheese ,2014-12-14
+1877,shopping bags,2014-09-30
+1877,whole milk,2014-09-30
+1878,rolls/buns,2014-09-06
+1878,canned beer,2014-09-06
+1879,other vegetables,2014-08-15
+1880,red/blush wine,2014-09-17
+1881,oil,2014-08-18
+1882,grapes,2014-08-23
+1883,butter,2014-08-06
+1885,bottled water,2014-11-03
+1886,chocolate marshmallow,2014-09-13
+1887,bottled water,2014-10-18
+1887,berries,2014-10-18
+1888,pastry,2014-10-30
+1889,root vegetables,2014-11-16
+1889,root vegetables,2014-11-16
+1890,rice,2014-12-09
+1891,candy,2014-05-07
+1892,pastry,2014-07-21
+1893,root vegetables,2015-01-18
+1894,cream cheese ,2014-08-19
+1895,soft cheese,2014-11-23
+1895,long life bakery product,2014-11-23
+1896,dish cleaner,2014-12-16
+1896,light bulbs,2014-12-16
+1897,brown bread,2014-12-09
+1898,sugar,2014-11-11
+1899,chewing gum,2014-09-12
+1900,long life bakery product,2014-03-15
+1902,butter,2015-01-12
+1903,dish cleaner,2014-08-15
+1904,other vegetables,2014-04-24
+1905,yogurt,2014-08-25
+1907,rolls/buns,2014-04-20
+1908,mustard,2014-12-06
+1908,frozen vegetables,2014-12-19
+1908,soft cheese,2014-12-19
+1910,other vegetables,2014-05-20
+1911,newspapers,2014-10-03
+1912,dessert,2014-10-19
+1913,UHT-milk,2014-12-14
+1914,dessert,2014-11-28
+1915,coffee,2014-03-04
+1916,whole milk,2014-05-21
+1917,curd,2014-09-10
+1919,white wine,2014-06-12
+1921,napkins,2014-12-12
+1922,pastry,2014-07-11
+1922,root vegetables,2014-07-11
+1923,domestic eggs,2014-11-20
+1924,shopping bags,2014-11-22
+1925,long life bakery product,2014-03-06
+1926,root vegetables,2014-07-25
+1927,flour,2014-06-20
+1928,napkins,2014-05-23
+1929,butter,2014-11-15
+1929,candy,2014-11-15
+1930,soda,2015-01-03
+1931,soft cheese,2014-08-12
+1931,pastry,2014-08-12
+1932,fruit/vegetable juice,2014-06-19
+1932,bottled water,2014-06-19
+1933,white bread,2014-10-21
+1934,root vegetables,2014-06-14
+1935,tropical fruit,2014-08-28
+1935,whole milk,2014-08-28
+1937,pip fruit,2015-01-19
+1938,butter,2014-09-25
+1939,shopping bags,2014-03-28
+1940,chocolate,2014-09-26
+1941,rolls/buns,2014-01-29
+1942,onions,2014-10-15
+1943,canned fish,2015-01-14
+1943,bottled beer,2015-01-14
+1944,cake bar,2014-10-08
+1945,whipped/sour cream,2014-05-11
+1946,shopping bags,2014-11-14
+1947,bottled beer,2014-07-16
+1948,whole milk,2014-09-23
+1948,herbs,2014-09-23
+1949,napkins,2014-10-18
+1950,sugar,2014-11-10
+1951,bottled beer,2014-07-27
+1954,coffee,2014-08-16
+1955,yogurt,2014-11-16
+1956,butter,2014-01-13
+1957,berries,2014-03-20
+1958,artif. sweetener,2014-06-16
+1959,rolls/buns,2014-03-23
+1961,rolls/buns,2014-06-07
+1962,soda,2014-06-14
+1964,shopping bags,2014-08-30
+1964,pickled vegetables,2014-08-30
+1965,yogurt,2014-02-01
+1966,bottled water,2014-10-10
+1966,other vegetables,2014-10-23
+1966,white bread,2014-10-23
+1967,brown bread,2015-01-20
+1969,rolls/buns,2014-10-02
+1970,pastry,2014-11-06
+1971,dessert,2014-05-28
+1972,whipped/sour cream,2014-02-05
+1975,soups,2014-09-01
+1978,yogurt,2014-10-15
+1979,salty snack,2014-12-16
+1979,butter milk,2014-12-16
+1980,frozen vegetables,2014-12-09
+1981,fruit/vegetable juice,2014-01-11
+1982,chocolate,2014-12-10
+1983,whole milk,2014-07-21
+1985,bottled water,2014-06-06
+1987,long life bakery product,2014-12-26
+1988,curd,2014-03-30
+1990,tropical fruit,2015-01-08
+1991,flour,2014-12-25
+1991,fruit/vegetable juice,2014-12-25
+1991,fruit/vegetable juice,2014-12-25
+1993,rolls/buns,2014-12-10
+1994,bottled beer,2014-07-21
+1995,brown bread,2014-10-29
+1996,soda,2014-09-22
+1997,soda,2014-10-30
+1998,whipped/sour cream,2014-10-11
+1998,ice cream,2014-10-13
+1998,pork,2014-10-13
+1999,dog food,2014-05-31
+2000,fruit/vegetable juice,2014-04-07
+2001,napkins,2014-11-14
+2003,baking powder,2014-11-30
+2004,pastry,2014-09-14
+2005,rolls/buns,2014-11-22
+2006,frozen potato products,2014-10-26
+2008,soda,2014-03-17
+2009,prosecco,2014-11-12
+2010,yogurt,2014-06-01
+2011,beverages,2014-09-25
+2011,yogurt,2014-09-25
+2012,butter milk,2014-04-08
+2013,onions,2014-12-26
+2014,pip fruit,2014-12-19
+2014,yogurt,2014-12-19
+2014,syrup,2014-12-19
+2015,soda,2014-04-08
+2016,whipped/sour cream,2014-09-18
+2017,bottled beer,2014-12-23
+2017,bottled water,2014-12-23
+2018,rolls/buns,2014-05-02
+2019,candy,2014-10-06
+2020,rolls/buns,2014-11-04
+2022,UHT-milk,2014-03-28
+2023,other vegetables,2014-03-31
+2024,yogurt,2014-07-21
+2025,bottled beer,2014-11-13
+2026,napkins,2014-11-14
+2027,cling film/bags,2014-09-10
+2028,coffee,2015-01-03
+2028,frozen vegetables,2015-01-03
+2029,dish cleaner,2014-10-21
+2030,newspapers,2014-06-09
+2031,detergent,2014-08-01
+2032,soda,2014-03-02
+2033,whole milk,2014-11-29
+2034,rolls/buns,2014-12-22
+2035,frozen vegetables,2014-10-08
+2036,onions,2014-08-27
+2037,napkins,2014-05-05
+2038,rolls/buns,2014-10-28
+2040,hard cheese,2014-10-04
+2041,dessert,2014-10-09
+2041,zwieback,2014-10-09
+2042,curd,2014-12-19
+2042,newspapers,2014-12-19
+2043,fruit/vegetable juice,2014-07-07
+2044,pastry,2014-11-26
+2045,yogurt,2014-11-04
+2045,whole milk,2014-11-04
+2047,newspapers,2014-12-05
+2048,rolls/buns,2014-12-17
+2048,other vegetables,2014-12-17
+2049,dessert,2014-02-09
+2050,rolls/buns,2014-10-20
+2051,newspapers,2014-03-12
+2053,soda,2014-08-19
+2054,shopping bags,2014-11-21
+2055,newspapers,2014-12-14
+2056,citrus fruit,2014-12-26
+2056,soda,2014-12-26
+2057,UHT-milk,2014-04-16
+2058,hygiene articles,2014-08-05
+2059,napkins,2014-07-09
+2060,brown bread,2014-05-25
+2062,misc. beverages,2014-08-22
+2063,other vegetables,2014-05-26
+2064,hard cheese,2014-06-04
+2065,whipped/sour cream,2014-11-28
+2065,soda,2014-11-28
+2066,pastry,2014-12-29
+2067,root vegetables,2014-10-10
+2068,rolls/buns,2014-08-22
+2069,newspapers,2014-12-11
+2070,pot plants,2014-12-20
+2070,frozen dessert,2014-12-20
+2071,butter,2014-07-31
+2072,yogurt,2014-12-08
+2074,candy,2014-08-27
+2075,root vegetables,2015-01-20
+2076,whole milk,2014-10-13
+2077,whole milk,2015-01-03
+2078,cream cheese ,2014-05-14
+2079,domestic eggs,2014-08-26
+2080,long life bakery product,2014-07-23
+2081,whole milk,2014-05-18
+2082,rolls/buns,2014-10-10
+2083,coffee,2014-10-21
+2084,cat food,2014-11-10
+2085,domestic eggs,2014-03-01
+2086,butter,2014-08-01
+2087,pickled vegetables,2014-08-21
+2088,dishes,2014-09-21
+2089,pasta,2014-10-08
+2091,vinegar,2014-01-18
+2092,bottled water,2014-12-17
+2093,whipped/sour cream,2014-12-24
+2093,specialty bar,2014-12-24
+2094,shopping bags,2014-07-05
+2097,rolls/buns,2015-01-10
+2097,domestic eggs,2015-01-10
+2098,flour,2014-10-20
+2100,yogurt,2014-05-13
+2102,yogurt,2014-07-21
+2104,berries,2014-09-25
+2105,rolls/buns,2014-02-12
+2106,whole milk,2014-06-09
+2107,brown bread,2015-01-03
+2107,bottled beer,2015-01-03
+2107,soda,2015-01-03
+2108,mayonnaise,2015-01-10
+2109,bottled water,2014-06-22
+2110,newspapers,2014-11-22
+2111,domestic eggs,2014-12-11
+2112,popcorn,2014-06-06
+2113,hard cheese,2014-09-19
+2114,bottled water,2014-08-22
+2115,whipped/sour cream,2014-09-19
+2116,other vegetables,2014-02-13
+2118,frozen vegetables,2014-01-16
+2119,cat food,2014-06-07
+2120,bottled beer,2014-07-07
+2120,whole milk,2014-07-07
+2121,flower (seeds),2014-04-22
+2122,domestic eggs,2014-09-16
+2123,pastry,2014-06-06
+2125,oil,2014-02-04
+2126,brandy,2014-04-27
+2127,pickled vegetables,2015-01-01
+2129,condensed milk,2014-05-09
+2131,bottled water,2014-12-12
+2132,whipped/sour cream,2014-12-19
+2132,newspapers,2014-12-19
+2133,tropical fruit,2014-08-11
+2133,fruit/vegetable juice,2014-08-11
+2134,bottled water,2014-01-17
+2135,salty snack,2014-02-15
+2137,napkins,2014-04-25
+2138,chocolate,2014-12-12
+2138,rolls/buns,2014-12-12
+2139,margarine,2014-10-02
+2140,bottled beer,2014-06-10
+2141,butter,2014-04-24
+2142,frozen vegetables,2014-10-25
+2143,frozen vegetables,2014-12-17
+2144,sweet spreads,2014-07-13
+2146,organic products,2014-10-22
+2147,salty snack,2014-09-15
+2148,domestic eggs,2014-11-20
+2149,sugar,2014-08-16
+2151,shopping bags,2014-11-04
+2152,soda,2014-11-23
+2153,chewing gum,2014-12-14
+2154,yogurt,2014-10-11
+2155,salad dressing,2014-11-11
+2156,domestic eggs,2014-08-05
+2157,canned beer,2014-06-26
+2158,pickled vegetables,2015-01-08
+2158,misc. beverages,2015-01-08
+2159,sugar,2014-08-10
+2160,shopping bags,2014-07-30
+2160,margarine,2014-07-30
+2161,margarine,2014-09-24
+2162,dog food,2014-05-25
+2164,whole milk,2014-11-19
+2164,bottled beer,2014-11-19
+2165,oil,2014-10-27
+2166,brown bread,2014-11-10
+2168,domestic eggs,2014-07-02
+2169,salty snack,2015-01-11
+2170,root vegetables,2014-02-24
+2172,yogurt,2014-06-21
+2173,pastry,2014-12-15
+2174,cereals,2014-09-18
+2175,chicken,2014-12-26
+2175,shopping bags,2014-12-26
+2176,hard cheese,2014-09-27
+2177,coffee,2014-08-19
+2178,male cosmetics,2014-11-10
+2180,butter,2014-12-18
+2181,soda,2014-05-04
+2183,yogurt,2014-12-29
+2184,soda,2014-12-18
+2185,other vegetables,2014-05-25
+2186,sugar,2015-01-07
+2186,soda,2015-01-09
+2186,whipped/sour cream,2015-01-09
+2187,domestic eggs,2014-12-26
+2188,dessert,2014-08-10
+2191,red/blush wine,2014-10-22
+2192,seasonal products,2014-11-21
+2193,beef,2014-12-04
+2193,dessert,2014-12-04
+2194,hygiene articles,2014-09-09
+2195,shopping bags,2014-09-19
+2196,candy,2014-12-02
+2197,onions,2014-06-07
+2198,cream,2014-10-08
+2199,rolls/buns,2014-02-06
+2201,ice cream,2014-05-30
+2202,sauces,2014-02-01
+2204,popcorn,2014-09-10
+2205,soda,2014-10-28
+2206,canned beer,2014-06-24
+2207,pip fruit,2014-09-04
+2209,whole milk,2014-12-16
+2210,dishes,2015-01-13
+2211,pastry,2015-01-01
+2212,soda,2014-08-06
+2213,white bread,2014-08-25
+2214,butter milk,2015-01-19
+2215,hamburger meat,2014-12-09
+2215,newspapers,2014-12-09
+2217,long life bakery product,2014-09-14
+2218,whole milk,2014-12-25
+2218,brown bread,2014-12-25
+2219,whipped/sour cream,2014-09-13
+2221,yogurt,2014-06-21
+2222,seasonal products,2014-07-31
+2225,hard cheese,2014-10-13
+2226,whole milk,2014-06-09
+2228,hygiene articles,2014-10-25
+2229,pastry,2014-07-24
+2230,instant coffee,2014-11-14
+2231,bottled beer,2014-06-22
+2232,whisky,2015-01-15
+2233,pastry,2014-10-29
+2234,pastry,2014-04-13
+2235,whole milk,2015-01-20
+2236,candy,2014-11-27
+2237,margarine,2014-10-10
+2238,pastry,2014-05-01
+2239,soda,2014-11-23
+2240,white bread,2015-01-12
+2241,rolls/buns,2014-02-17
+2242,liquor (appetizer),2014-04-27
+2243,frozen potato products,2014-02-10
+2244,whole milk,2014-09-11
+2245,canned beer,2014-02-19
+2246,newspapers,2014-01-21
+2247,domestic eggs,2014-11-19
+2251,whole milk,2014-09-06
+2252,soda,2014-12-17
+2252,spices,2014-12-17
+2252,shopping bags,2014-12-17
+2253,butter milk,2014-12-16
+2254,whole milk,2014-11-24
+2255,oil,2015-01-05
+2256,butter,2014-11-24
+2257,pasta,2014-06-27
+2258,soda,2014-10-19
+2259,domestic eggs,2014-06-16
+2261,brown bread,2014-07-25
+2262,waffles,2014-10-09
+2264,rolls/buns,2014-10-17
+2266,whipped/sour cream,2014-08-30
+2267,hygiene articles,2014-10-06
+2269,bottled water,2014-05-26
+2270,soda,2015-01-07
+2271,yogurt,2014-09-30
+2271,dog food,2015-01-17
+2271,white bread,2015-01-17
+2272,salty snack,2014-07-25
+2273,soda,2014-11-25
+2274,other vegetables,2014-11-04
+2276,yogurt,2014-11-29
+2277,canned beer,2015-01-18
+2278,rolls/buns,2014-10-11
+2279,coffee,2014-11-25
+2280,soda,2014-11-12
+2283,margarine,2015-01-18
+2284,fruit/vegetable juice,2014-06-01
+2285,UHT-milk,2014-06-07
+2287,chocolate,2014-10-27
+2288,brown bread,2014-11-25
+2289,frankfurter,2014-11-20
+2289,whole milk,2014-11-20
+2290,fruit/vegetable juice,2014-12-23
+2291,other vegetables,2014-09-29
+2293,salty snack,2014-08-26
+2293,house keeping products,2014-08-26
+2294,specialty fat,2014-09-25
+2295,mayonnaise,2014-06-13
+2296,other vegetables,2014-12-06
+2297,shopping bags,2015-01-03
+2298,Instant food products,2014-12-10
+2298,citrus fruit,2014-12-17
+2298,napkins,2014-12-17
+2299,yogurt,2014-04-08
+2300,fruit/vegetable juice,2014-03-16
+2301,domestic eggs,2014-08-25
+2302,whole milk,2014-01-29
+2303,hair spray,2014-12-06
+2304,whole milk,2015-01-07
+2305,shopping bags,2014-10-18
+2306,white bread,2014-12-13
+2306,newspapers,2014-12-13
+2307,soft cheese,2014-04-25
+2308,bottled beer,2014-10-09
+2309,frozen vegetables,2014-10-31
+2310,root vegetables,2014-10-31
+2311,other vegetables,2015-01-11
+2312,canned beer,2014-02-25
+2313,dishes,2014-02-05
+2314,candy,2014-09-02
+2315,beverages,2014-10-27
+2316,rice,2014-02-18
+2318,whipped/sour cream,2015-01-16
+2319,baking powder,2014-05-11
+2320,margarine,2014-08-12
+2320,yogurt,2014-08-12
+2321,chocolate,2014-06-02
+2322,cake bar,2014-02-15
+2323,whipped/sour cream,2014-12-27
+2324,soda,2014-04-15
+2325,rolls/buns,2014-10-22
+2325,margarine,2014-10-22
+2328,candy,2014-01-22
+2329,newspapers,2014-05-28
+2330,sugar,2014-08-10
+2331,bottled water,2014-12-28
+2332,bathroom cleaner,2014-09-14
+2332,beverages,2014-09-14
+2334,rolls/buns,2014-03-02
+2335,ice cream,2015-01-13
+2336,salty snack,2014-05-31
+2337,soda,2014-10-14
+2338,white wine,2014-11-03
+2339,sliced cheese,2014-05-20
+2339,baking powder,2014-05-20
+2340,rolls/buns,2014-08-04
+2341,rolls/buns,2014-12-22
+2341,shopping bags,2014-12-22
+2342,bottled water,2014-12-19
+2343,canned beer,2014-08-19
+2344,root vegetables,2014-11-20
+2345,rolls/buns,2014-11-30
+2346,fruit/vegetable juice,2014-12-23
+2347,canned beer,2014-01-15
+2348,pastry,2015-01-11
+2349,female sanitary products,2014-12-10
+2349,dishes,2014-12-10
+2350,tidbits,2014-05-30
+2351,domestic eggs,2014-09-18
+2352,misc. beverages,2014-03-27
+2353,coffee,2014-11-14
+2354,Instant food products,2014-08-20
+2355,whole milk,2014-12-29
+2355,white bread,2014-12-29
+2356,rolls/buns,2014-04-21
+2357,fruit/vegetable juice,2014-11-27
+2357,curd,2014-11-27
+2358,berries,2014-08-08
+2359,coffee,2014-09-26
+2360,napkins,2014-09-07
+2361,specialty bar,2014-12-15
+2362,dessert,2014-10-27
+2363,red/blush wine,2014-03-12
+2364,bottled water,2014-07-23
+2365,misc. beverages,2014-11-29
+2366,candy,2015-01-18
+2369,fish,2014-07-23
+2370,fruit/vegetable juice,2015-01-14
+2371,nuts/prunes,2014-07-09
+2372,whole milk,2014-10-10
+2373,chewing gum,2014-08-22
+2374,artif. sweetener,2014-09-16
+2375,pip fruit,2014-08-18
+2376,whipped/sour cream,2014-08-11
+2377,bottled beer,2014-02-13
+2379,brown bread,2014-01-06
+2380,whole milk,2015-01-06
+2381,whole milk,2015-01-04
+2381,sausage,2015-01-13
+2381,UHT-milk,2015-01-13
+2383,butter,2014-09-18
+2384,tropical fruit,2014-01-14
+2387,brown bread,2014-11-03
+2388,shopping bags,2014-11-19
+2389,shopping bags,2014-10-13
+2389,whole milk,2014-10-13
+2390,rolls/buns,2014-11-28
+2390,other vegetables,2014-11-28
+2391,whipped/sour cream,2014-01-18
+2393,sugar,2014-09-26
+2394,sausage,2014-10-18
+2394,nuts/prunes,2014-10-18
+2395,napkins,2014-11-17
+2396,frankfurter,2014-12-04
+2396,dessert,2014-12-04
+2398,coffee,2014-07-23
+2399,pastry,2014-08-18
+2400,domestic eggs,2014-08-26
+2401,white bread,2015-01-15
+2402,pastry,2014-09-29
+2403,yogurt,2015-01-12
+2404,beverages,2014-10-22
+2406,salt,2014-12-03
+2407,root vegetables,2014-08-01
+2408,cat food,2014-10-11
+2410,dish cleaner,2014-06-12
+2411,other vegetables,2014-07-01
+2412,napkins,2014-12-12
+2413,salty snack,2014-09-16
+2414,cling film/bags,2014-04-06
+2415,bottled water,2014-09-14
+2416,margarine,2014-02-16
+2417,newspapers,2014-03-11
+2419,processed cheese,2014-07-26
+2420,fruit/vegetable juice,2014-07-17
+2421,UHT-milk,2014-06-05
+2423,seasonal products,2014-12-02
+2424,pickled vegetables,2014-09-28
+2425,dessert,2014-11-11
+2426,napkins,2014-12-09
+2427,other vegetables,2014-12-22
+2428,sugar,2014-11-02
+2428,margarine,2014-11-02
+2430,specialty bar,2015-01-20
+2431,whole milk,2014-02-28
+2432,whole milk,2014-11-15
+2433,margarine,2014-08-04
+2434,pet care,2014-09-12
+2435,cat food,2014-10-30
+2436,bottled water,2014-11-27
+2437,white bread,2014-09-10
+2437,meat spreads,2014-09-10
+2438,rolls/buns,2014-05-25
+2439,shopping bags,2014-06-06
+2440,long life bakery product,2014-10-11
+2440,pastry,2014-10-11
+2441,nut snack,2014-12-10
+2442,cream cheese ,2014-02-24
+2443,rolls/buns,2014-10-03
+2444,rolls/buns,2014-06-19
+2445,fruit/vegetable juice,2014-10-29
+2446,whole milk,2014-09-24
+2447,chocolate,2014-07-26
+2448,hard cheese,2014-07-15
+2449,canned beer,2014-07-08
+2450,citrus fruit,2014-11-29
+2451,domestic eggs,2014-09-28
+2452,sliced cheese,2014-08-03
+2453,specialty cheese,2014-07-05
+2454,other vegetables,2014-12-07
+2455,coffee,2014-07-04
+2456,fruit/vegetable juice,2014-03-15
+2457,brown bread,2014-12-13
+2458,cat food,2014-11-20
+2459,whipped/sour cream,2014-01-03
+2460,soda,2014-02-17
+2461,pastry,2014-01-24
+2463,soda,2014-06-12
+2464,other vegetables,2014-11-06
+2466,frozen meals,2014-01-28
+2467,vinegar,2014-11-30
+2468,whole milk,2014-11-08
+2469,photo/film,2014-06-17
+2470,rolls/buns,2014-12-13
+2471,ice cream,2014-12-08
+2472,processed cheese,2015-01-17
+2473,chewing gum,2015-01-07
+2475,canned beer,2014-09-29
+2476,coffee,2014-08-24
+2477,rolls/buns,2014-09-30
+2478,dessert,2014-02-25
+2479,whole milk,2015-01-13
+2479,newspapers,2015-01-13
+2480,soda,2014-01-03
+2481,root vegetables,2014-07-08
+2482,misc. beverages,2014-01-21
+2483,specialty bar,2014-08-14
+2484,rolls/buns,2014-08-17
+2486,cling film/bags,2014-04-19
+2488,newspapers,2014-08-26
+2489,shopping bags,2014-10-06
+2490,pickled vegetables,2014-04-19
+2492,nut snack,2015-01-11
+2492,canned beer,2015-01-11
+2493,soda,2014-05-27
+2495,red/blush wine,2014-02-24
+2496,UHT-milk,2014-11-26
+2497,whole milk,2014-06-08
+2499,pickled vegetables,2014-07-20
+2501,pork,2014-05-06
+2502,shopping bags,2014-06-18
+2504,waffles,2014-12-16
+2505,frozen vegetables,2014-02-02
+2506,canned fish,2014-09-05
+2507,canned beer,2014-05-15
+2508,bottled water,2014-09-21
+2509,other vegetables,2014-08-17
+2510,sugar,2014-08-13
+2511,bottled water,2014-10-11
+2511,pip fruit,2014-12-07
+2511,shopping bags,2014-12-07
+2512,root vegetables,2015-01-19
+2512,canned fish,2015-01-19
+2514,citrus fruit,2014-06-24
+2515,bottled beer,2014-12-12
+2517,spread cheese,2014-12-05
+2518,domestic eggs,2014-11-27
+2519,decalcifier,2014-07-04
+2520,other vegetables,2014-12-18
+2521,pastry,2014-03-22
+2522,hard cheese,2014-08-08
+2523,shopping bags,2014-11-10
+2524,domestic eggs,2014-10-17
+2524,potato products,2014-10-17
+2525,shopping bags,2015-01-14
+2526,bottled beer,2014-08-02
+2527,canned beer,2015-01-20
+2528,coffee,2014-03-15
+2530,sliced cheese,2014-10-30
+2531,chewing gum,2014-09-01
+2532,bottled water,2014-09-21
+2533,bottled water,2014-12-23
+2534,long life bakery product,2014-09-02
+2535,sweet spreads,2014-12-29
+2536,white bread,2014-10-06
+2537,bottled beer,2014-02-23
+2538,pastry,2014-10-15
+2539,yogurt,2014-11-23
+2540,whole milk,2014-12-16
+2540,canned beer,2014-12-16
+2541,mayonnaise,2014-12-09
+2542,bottled water,2014-01-01
+2543,soda,2014-11-18
+2544,frozen potato products,2015-01-20
+2545,other vegetables,2014-11-10
+2545,domestic eggs,2014-11-10
+2546,rolls/buns,2014-04-06
+2547,tropical fruit,2014-12-02
+2548,flour,2014-05-28
+2549,dessert,2014-12-27
+2549,jam,2014-12-27
+2550,whole milk,2014-12-24
+2551,curd,2014-11-01
+2552,shopping bags,2014-11-07
+2552,coffee,2014-11-07
+2553,tropical fruit,2015-01-02
+2555,curd,2014-12-27
+2556,specialty bar,2014-11-11
+2557,white bread,2014-10-19
+2559,bottled beer,2014-10-27
+2560,specialty bar,2014-04-19
+2561,flour,2014-11-27
+2562,yogurt,2014-11-14
+2562,root vegetables,2014-11-14
+2564,butter,2014-12-20
+2565,jam,2014-09-16
+2567,bottled beer,2014-07-22
+2568,candy,2014-12-22
+2569,margarine,2014-10-14
+2570,long life bakery product,2014-07-29
+2571,yogurt,2014-07-07
+2573,rolls/buns,2014-08-05
+2574,jam,2014-10-26
+2576,fruit/vegetable juice,2014-12-25
+2577,butter,2014-08-03
+2578,curd,2015-01-12
+2578,yogurt,2015-01-12
+2579,yogurt,2014-12-12
+2580,salad dressing,2014-03-04
+2581,dessert,2014-05-26
+2584,other vegetables,2014-11-30
+2584,bottled water,2014-11-30
+2584,hard cheese,2014-11-30
+2585,rolls/buns,2014-09-28
+2587,ketchup,2014-11-12
+2588,coffee,2014-07-01
+2589,spices,2014-11-04
+2589,cookware,2014-11-04
+2590,snack products,2014-08-27
+2591,root vegetables,2014-10-12
+2592,soda,2015-01-10
+2593,soups,2014-10-13
+2594,pastry,2014-09-15
+2595,rum,2014-11-11
+2597,root vegetables,2014-10-25
+2600,berries,2014-12-07
+2601,curd,2014-02-28
+2602,cream cheese ,2014-04-18
+2603,shopping bags,2014-06-28
+2604,dishes,2014-09-17
+2605,potato products,2014-08-30
+2606,candles,2014-11-01
+2607,ice cream,2014-11-20
+2608,pasta,2014-11-19
+2609,semi-finished bread,2014-04-06
+2610,domestic eggs,2014-01-01
+2611,bottled water,2014-12-29
+2612,pip fruit,2015-01-02
+2612,tropical fruit,2015-01-02
+2613,yogurt,2014-05-24
+2615,rolls/buns,2014-05-29
+2616,newspapers,2014-10-24
+2617,yogurt,2014-12-08
+2617,whole milk,2014-12-08
+2618,salty snack,2014-12-01
+2619,whole milk,2014-12-24
+2620,rolls/buns,2014-09-05
+2621,UHT-milk,2014-09-27
+2622,canned fish,2015-01-10
+2623,brown bread,2014-11-22
+2625,specialty chocolate,2014-12-14
+2626,canned beer,2014-09-08
+2627,cat food,2014-05-17
+2628,candy,2014-02-12
+2629,shopping bags,2014-09-07
+2630,processed cheese,2014-11-01
+2631,waffles,2014-09-29
+2632,butter,2015-01-16
+2632,fruit/vegetable juice,2015-01-16
+2633,waffles,2014-07-28
+2637,rolls/buns,2014-09-18
+2638,mayonnaise,2014-10-10
+2639,fruit/vegetable juice,2014-08-06
+2641,frozen fruits,2015-01-03
+2641,fruit/vegetable juice,2015-01-03
+2642,beverages,2015-01-04
+2643,fruit/vegetable juice,2015-01-12
+2644,coffee,2014-05-21
+2645,hygiene articles,2014-12-23
+2645,pastry,2014-12-23
+2646,pastry,2014-10-23
+2648,coffee,2014-05-22
+2649,liqueur,2014-03-09
+2650,seasonal products,2014-09-08
+2651,white bread,2014-11-09
+2652,kitchen towels,2015-01-08
+2653,newspapers,2014-06-06
+2654,sweet spreads,2014-08-08
+2655,rolls/buns,2015-01-07
+2656,dish cleaner,2014-10-19
+2657,bottled water,2015-01-04
+2658,rolls/buns,2014-09-28
+2659,brown bread,2015-01-06
+2660,specialty chocolate,2014-11-09
+2661,tropical fruit,2015-01-05
+2662,artif. sweetener,2014-05-12
+2663,tropical fruit,2014-11-15
+2663,shopping bags,2014-11-15
+2664,domestic eggs,2014-08-10
+2665,specialty chocolate,2014-11-10
+2666,frozen vegetables,2014-11-04
+2666,pastry,2014-11-04
+2667,domestic eggs,2014-10-22
+2668,other vegetables,2014-01-12
+2669,pastry,2014-03-24
+2670,whole milk,2014-08-15
+2671,whole milk,2014-04-25
+2672,yogurt,2015-01-17
+2673,yogurt,2014-12-16
+2674,grapes,2014-05-19
+2675,cling film/bags,2014-01-09
+2676,candy,2014-10-01
+2679,chocolate marshmallow,2014-12-16
+2680,instant coffee,2014-11-23
+2681,cream cheese ,2014-04-09
+2682,canned beer,2015-01-20
+2683,red/blush wine,2015-01-18
+2685,soda,2014-12-04
+2686,pastry,2014-12-20
+2687,frozen fish,2014-12-16
+2688,pastry,2014-12-21
+2689,curd,2014-08-27
+2690,white wine,2015-01-05
+2692,pastry,2014-06-23
+2693,mayonnaise,2014-05-21
+2694,rolls/buns,2014-09-10
+2695,UHT-milk,2014-04-08
+2696,seasonal products,2014-12-23
+2697,soft cheese,2014-07-07
+2698,other vegetables,2014-10-14
+2699,sauces,2014-07-18
+2701,butter,2014-12-03
+2701,soda,2014-12-03
+2702,brown bread,2014-12-11
+2703,specialty fat,2014-09-29
+2704,bottled beer,2014-02-08
+2705,sweet spreads,2014-12-20
+2706,sugar,2014-10-30
+2706,specialty bar,2014-10-30
+2707,specialty bar,2014-10-30
+2708,coffee,2014-05-25
+2709,bottled water,2014-05-18
+2710,waffles,2014-12-18
+2711,light bulbs,2014-10-23
+2712,frozen meals,2014-09-06
+2713,bottled beer,2014-09-28
+2715,cake bar,2014-11-10
+2716,sausage,2015-01-18
+2716,beef,2015-01-18
+2717,fruit/vegetable juice,2014-02-01
+2718,margarine,2014-11-08
+2718,margarine,2014-11-08
+2719,root vegetables,2014-12-18
+2720,rolls/buns,2014-06-26
+2722,soda,2014-11-13
+2723,rolls/buns,2014-10-27
+2724,rolls/buns,2014-04-23
+2725,baking powder,2014-05-01
+2726,yogurt,2014-11-30
+2727,bottled beer,2014-05-29
+2729,beef,2014-09-30
+2730,domestic eggs,2014-10-11
+2731,newspapers,2014-08-27
+2732,vinegar,2014-04-03
+2733,bottled water,2014-05-05
+2735,other vegetables,2015-01-06
+2736,margarine,2014-10-14
+2737,shopping bags,2014-12-26
+2738,frozen meals,2014-11-02
+2739,skin care,2014-11-07
+2740,whipped/sour cream,2014-06-16
+2741,canned beer,2014-10-08
+2742,UHT-milk,2014-07-07
+2743,chocolate,2014-12-05
+2744,frozen vegetables,2014-06-05
+2745,dessert,2014-04-27
+2746,root vegetables,2014-09-16
+2746,salty snack,2014-09-16
+2747,pastry,2014-09-24
+2748,processed cheese,2014-02-04
+2749,long life bakery product,2014-11-20
+2750,sparkling wine,2014-11-01
+2751,rolls/buns,2014-11-03
+2751,female sanitary products,2014-11-03
+2753,butter,2014-07-07
+2754,margarine,2014-11-20
+2755,soda,2014-11-25
+2755,chocolate,2014-11-25
+2756,rolls/buns,2014-08-10
+2758,soft cheese,2014-12-27
+2758,long life bakery product,2014-12-27
+2760,vinegar,2014-06-20
+2760,pot plants,2014-06-20
+2761,margarine,2014-08-19
+2762,red/blush wine,2014-10-27
+2763,canned fish,2015-01-02
+2764,candy,2014-04-18
+2765,fruit/vegetable juice,2014-09-02
+2766,coffee,2014-05-27
+2768,pot plants,2015-01-01
+2769,misc. beverages,2014-10-31
+2770,pip fruit,2014-08-29
+2771,napkins,2014-08-05
+2772,soda,2014-08-19
+2772,red/blush wine,2014-08-19
+2773,margarine,2014-05-30
+2774,domestic eggs,2014-06-28
+2775,condensed milk,2014-07-21
+2776,butter,2014-05-14
+2777,herbs,2015-01-06
+2778,bottled beer,2014-09-05
+2779,whole milk,2015-01-12
+2779,rolls/buns,2015-01-12
+2781,other vegetables,2015-01-06
+2782,spread cheese,2014-11-21
+2784,cling film/bags,2014-12-24
+2785,beef,2015-01-02
+2786,specialty chocolate,2014-08-30
+2787,sugar,2014-09-30
+2788,salty snack,2014-10-08
+2789,tropical fruit,2015-01-06
+2789,grapes,2015-01-06
+2790,berries,2014-03-03
+2791,photo/film,2014-11-21
+2792,bottled beer,2014-07-28
+2794,fruit/vegetable juice,2014-07-23
+2795,fruit/vegetable juice,2014-06-27
+2796,cling film/bags,2014-09-21
+2797,soda,2014-08-08
+2798,bottled water,2014-06-27
+2799,cat food,2014-09-24
+2800,frozen fish,2014-10-29
+2801,bottled water,2014-10-10
+2802,frozen vegetables,2014-12-15
+2803,yogurt,2014-10-26
+2803,oil,2014-10-26
+2804,other vegetables,2015-01-18
+2805,cat food,2014-08-16
+2806,onions,2014-06-04
+2806,curd,2014-06-04
+2807,bottled water,2014-10-13
+2808,rolls/buns,2014-02-09
+2809,berries,2014-01-04
+2810,salty snack,2014-08-02
+2811,yogurt,2014-11-14
+2812,whipped/sour cream,2014-08-28
+2813,female sanitary products,2015-01-10
+2813,soda,2015-01-10
+2814,rolls/buns,2014-12-15
+2815,root vegetables,2014-10-30
+2816,seasonal products,2015-01-10
+2816,fruit/vegetable juice,2015-01-10
+2817,beverages,2014-09-25
+2820,soda,2014-11-24
+2822,salty snack,2014-06-16
+2823,waffles,2014-10-17
+2824,whole milk,2014-09-17
+2825,frozen potato products,2014-06-05
+2826,other vegetables,2014-04-09
+2827,whole milk,2014-10-16
+2828,curd,2014-01-02
+2829,soda,2014-07-07
+2830,bottled beer,2014-09-21
+2831,butter,2014-05-30
+2832,domestic eggs,2014-07-29
+2834,yogurt,2014-07-02
+2835,rolls/buns,2014-11-21
+2835,shopping bags,2014-11-21
+2836,butter,2014-10-20
+2837,soda,2014-10-13
+2838,waffles,2014-04-28
+2839,red/blush wine,2014-06-29
+2840,yogurt,2014-07-22
+2842,soda,2014-05-15
+2843,rolls/buns,2014-06-06
+2845,processed cheese,2015-01-10
+2846,shopping bags,2014-10-26
+2847,yogurt,2014-06-13
+2848,bottled water,2014-07-14
+2849,newspapers,2014-11-02
+2850,root vegetables,2014-10-01
+2851,canned beer,2015-01-01
+2851,brown bread,2015-01-01
+2851,fruit/vegetable juice,2015-01-01
+2853,candy,2014-11-17
+2854,pip fruit,2014-07-15
+2855,rolls/buns,2014-07-11
+2855,hygiene articles,2014-07-11
+2856,sparkling wine,2014-12-24
+2857,fruit/vegetable juice,2014-12-12
+2858,detergent,2014-08-24
+2859,processed cheese,2014-02-27
+2860,shopping bags,2015-01-03
+2860,light bulbs,2015-01-03
+2861,domestic eggs,2014-10-25
+2862,soda,2014-09-12
+2863,bottled beer,2014-12-03
+2864,whole milk,2014-12-01
+2865,processed cheese,2014-09-23
+2866,whole milk,2014-04-16
+2867,salty snack,2014-09-05
+2868,citrus fruit,2014-06-15
+2868,pickled vegetables,2014-06-15
+2869,bottled water,2014-08-11
+2870,whole milk,2014-12-14
+2871,yogurt,2014-09-21
+2872,whole milk,2014-06-08
+2873,detergent,2014-10-23
+2873,soda,2014-10-23
+2875,soda,2015-01-11
+2876,shopping bags,2014-12-20
+2877,mustard,2014-06-13
+2878,bottled water,2014-06-13
+2879,artif. sweetener,2014-06-27
+2880,soda,2014-04-12
+2881,margarine,2014-06-03
+2882,other vegetables,2014-12-12
+2883,rolls/buns,2014-09-05
+2884,other vegetables,2014-03-17
+2885,long life bakery product,2014-12-26
+2886,butter,2014-12-12
+2887,whole milk,2015-01-17
+2888,other vegetables,2014-04-05
+2889,citrus fruit,2015-01-20
+2890,flour,2014-02-13
+2892,pastry,2014-11-20
+2893,pickled vegetables,2014-04-16
+2897,curd,2014-07-11
+2898,soda,2014-10-06
+2899,soda,2014-08-01
+2900,shopping bags,2014-11-23
+2901,other vegetables,2014-10-07
+2903,sugar,2014-08-05
+2904,oil,2014-09-28
+2905,brown bread,2014-01-17
+2906,bottled beer,2014-11-13
+2907,ham,2014-12-19
+2907,pastry,2014-12-19
+2907,sugar,2014-12-19
+2908,rolls/buns,2014-04-27
+2909,specialty chocolate,2014-07-23
+2910,canned fish,2014-03-28
+2911,butter,2014-03-23
+2912,salty snack,2014-09-20
+2913,house keeping products,2014-12-14
+2914,rolls/buns,2015-01-04
+2915,berries,2014-07-29
+2916,cleaner,2014-12-08
+2917,rolls/buns,2014-05-27
+2918,waffles,2014-05-27
+2919,curd,2014-01-14
+2920,root vegetables,2014-12-05
+2921,other vegetables,2014-11-27
+2922,coffee,2014-06-06
+2923,napkins,2014-11-03
+2924,frozen dessert,2014-11-14
+2925,flour,2014-11-24
+2926,specialty bar,2014-06-16
+2927,house keeping products,2014-11-12
+2928,frozen fish,2014-12-12
+2929,pastry,2014-10-22
+2930,other vegetables,2014-04-25
+2931,seasonal products,2014-05-07
+2932,waffles,2014-10-11
+2933,seasonal products,2014-01-08
+2934,butter milk,2014-10-30
+2935,frozen vegetables,2014-04-21
+2936,newspapers,2014-07-03
+2937,rolls/buns,2014-10-01
+2937,pastry,2014-10-01
+2938,butter milk,2014-03-23
+2939,bottled water,2014-10-22
+2940,sliced cheese,2014-11-01
+2941,beverages,2014-06-13
+2942,flower (seeds),2015-01-02
+2942,oil,2015-01-02
+2943,canned beer,2014-11-09
+2944,cream cheese ,2015-01-02
+2944,processed cheese,2015-01-02
+2945,frozen meals,2014-11-16
+2946,citrus fruit,2014-11-19
+2946,margarine,2014-11-19
+2947,cream cheese ,2014-03-03
+2948,detergent,2014-11-04
+2949,bottled water,2014-03-25
+2950,canned beer,2014-11-18
+2950,other vegetables,2014-11-18
+2951,soda,2014-12-30
+2952,newspapers,2014-12-01
+2954,fruit/vegetable juice,2014-07-17
+2955,root vegetables,2014-11-30
+2955,candles,2014-11-30
+2956,cream cheese ,2014-10-23
+2957,bottled beer,2014-12-21
+2958,chocolate,2014-12-17
+2960,misc. beverages,2014-11-28
+2960,dishes,2014-11-28
+2961,domestic eggs,2014-12-13
+2962,domestic eggs,2015-01-03
+2963,frozen vegetables,2014-05-27
+2964,UHT-milk,2014-09-22
+2965,coffee,2014-07-06
+2966,long life bakery product,2014-11-26
+2967,oil,2014-05-27
+2969,processed cheese,2014-04-13
+2970,chewing gum,2014-11-11
+2971,fruit/vegetable juice,2014-12-07
+2972,margarine,2014-02-19
+2973,white bread,2014-12-13
+2973,frozen vegetables,2014-12-13
+2974,frozen vegetables,2014-05-24
+2975,fruit/vegetable juice,2014-10-25
+2976,shopping bags,2014-09-20
+2977,waffles,2014-11-26
+2978,liquor,2014-08-27
+2979,whole milk,2014-08-25
+2980,shopping bags,2014-11-27
+2981,canned beer,2014-05-06
+2982,margarine,2014-10-22
+2983,specialty chocolate,2014-02-28
+2984,fruit/vegetable juice,2014-09-25
+2986,bottled water,2014-05-11
+2987,coffee,2014-04-16
+2989,flour,2014-10-09
+2990,packaged fruit/vegetables,2014-08-15
+2990,long life bakery product,2014-08-15
+2991,tropical fruit,2014-04-30
+2991,salt,2014-04-30
+2993,beef,2014-11-17
+2993,napkins,2014-11-17
+2994,long life bakery product,2014-12-07
+2995,bottled water,2014-03-19
+2996,candy,2014-09-17
+2997,bottled water,2014-09-02
+2998,semi-finished bread,2014-10-30
+2999,white bread,2014-12-08
+3000,cat food,2014-08-22
+3002,seasonal products,2014-12-12
+3003,newspapers,2014-08-05
+3004,soda,2014-04-09
+3005,margarine,2014-11-26
+3006,margarine,2014-06-20
+3007,frozen dessert,2014-02-12
+3008,other vegetables,2014-09-07
+3009,flour,2014-12-27
+3010,sliced cheese,2014-11-05
+3011,bottled water,2014-08-29
+3012,whole milk,2014-07-24
+3013,UHT-milk,2014-12-05
+3013,brown bread,2014-12-05
+3014,root vegetables,2014-12-20
+3015,other vegetables,2014-07-08
+3016,sugar,2015-01-12
+3017,whole milk,2014-11-09
+3018,soda,2015-01-18
+3019,brown bread,2014-12-13
+3020,pot plants,2014-08-12
+3021,bottled water,2014-11-15
+3022,whipped/sour cream,2014-09-19
+3023,liquor,2014-11-12
+3024,detergent,2014-12-23
+3025,cat food,2014-01-19
+3026,soda,2015-01-01
+3026,bottled water,2015-01-01
+3027,berries,2014-10-14
+3028,cake bar,2014-11-20
+3029,dog food,2014-10-19
+3030,whole milk,2014-12-14
+3030,red/blush wine,2014-12-14
+3031,specialty bar,2014-01-12
+3032,domestic eggs,2014-12-28
+3033,whole milk,2014-09-25
+3034,pastry,2014-12-26
+3035,baking powder,2014-04-16
+3037,white bread,2015-01-02
+3038,rolls/buns,2014-12-30
+3038,yogurt,2014-12-30
+3039,canned beer,2014-10-15
+3040,white bread,2014-11-10
+3041,whipped/sour cream,2014-04-07
+3042,curd cheese,2015-01-16
+3044,coffee,2014-09-17
+3045,chewing gum,2014-08-16
+3046,frozen vegetables,2014-08-22
+3047,condensed milk,2014-08-16
+3048,meat spreads,2014-05-23
+3049,sliced cheese,2014-09-30
+3050,waffles,2014-11-11
+3051,salty snack,2014-05-25
+3052,rolls/buns,2014-10-26
+3053,other vegetables,2014-12-13
+3054,waffles,2014-01-17
+3056,fruit/vegetable juice,2014-03-31
+3057,instant coffee,2014-07-16
+3058,rolls/buns,2014-12-03
+3059,shopping bags,2014-12-13
+3060,red/blush wine,2014-08-18
+3062,rolls/buns,2015-01-08
+3063,flour,2014-12-13
+3064,bottled beer,2014-06-14
+3065,waffles,2014-12-28
+3066,long life bakery product,2014-10-17
+3067,whipped/sour cream,2014-11-17
+3068,pasta,2014-05-25
+3069,dishes,2014-04-04
+3071,specialty bar,2014-04-18
+3072,dessert,2014-12-11
+3073,sliced cheese,2015-01-17
+3074,shopping bags,2014-03-11
+3075,root vegetables,2014-12-04
+3076,soda,2014-02-22
+3077,butter milk,2015-01-19
+3078,rolls/buns,2015-01-09
+3079,soda,2014-04-13
+3080,domestic eggs,2014-02-15
+3081,brown bread,2014-07-18
+3081,brown bread,2014-09-23
+3081,white wine,2014-09-23
+3082,soda,2014-10-11
+3082,frozen dessert,2014-10-11
+3082,pickled vegetables,2014-10-11
+3083,whole milk,2014-09-19
+3083,brown bread,2014-09-19
+3084,white wine,2014-10-27
+3086,chocolate,2014-11-07
+3087,bottled water,2014-12-27
+3088,newspapers,2014-11-03
+3089,hygiene articles,2014-10-27
+3090,whipped/sour cream,2014-11-22
+3090,tropical fruit,2014-11-22
+3092,yogurt,2014-02-09
+3094,domestic eggs,2014-12-15
+3094,waffles,2014-12-15
+3095,rolls/buns,2014-11-26
+3095,soda,2014-11-26
+3098,sugar,2014-05-29
+3099,butter milk,2014-12-16
+3099,cream cheese ,2014-12-16
+3100,root vegetables,2014-12-19
+3101,cat food,2015-01-17
+3102,shopping bags,2014-11-28
+3103,frozen vegetables,2014-10-12
+3104,rolls/buns,2014-10-22
+3105,whipped/sour cream,2014-12-04
+3106,whole milk,2014-11-05
+3107,meat,2014-12-13
+3107,chocolate,2014-12-13
+3108,bottled beer,2014-03-25
+3109,specialty bar,2014-11-09
+3110,Instant food products,2014-07-23
+3111,grapes,2014-10-30
+3112,domestic eggs,2014-11-16
+3113,other vegetables,2014-12-26
+3115,brown bread,2014-10-29
+3115,snack products,2014-10-29
+3115,napkins,2014-10-29
+3116,misc. beverages,2014-12-06
+3116,baking powder,2014-12-06
+3117,domestic eggs,2014-09-01
+3118,salty snack,2014-07-11
+3119,flour,2014-02-07
+3120,white bread,2015-01-14
+3122,soda,2014-12-25
+3122,rolls/buns,2014-12-25
+3123,sliced cheese,2014-12-15
+3125,oil,2014-05-10
+3126,whole milk,2014-02-12
+3127,pork,2014-10-21
+3127,white bread,2014-10-21
+3129,hard cheese,2014-07-26
+3130,yogurt,2014-01-02
+3131,soda,2014-03-12
+3132,bottled beer,2014-09-14
+3133,curd cheese,2015-01-12
+3135,rice,2014-06-21
+3136,flour,2014-04-28
+3137,newspapers,2014-11-09
+3137,newspapers,2014-11-29
+3137,spread cheese,2014-11-29
+3138,napkins,2014-12-28
+3139,soda,2014-07-07
+3140,shopping bags,2014-12-15
+3141,soda,2014-07-06
+3142,tropical fruit,2014-12-02
+3142,whole milk,2014-12-02
+3144,shopping bags,2014-05-06
+3145,candy,2014-08-16
+3146,other vegetables,2014-07-02
+3148,chocolate,2014-10-25
+3149,napkins,2014-01-25
+3150,pip fruit,2014-11-08
+3151,domestic eggs,2014-10-13
+3153,brown bread,2014-10-26
+3154,other vegetables,2014-04-12
+3155,citrus fruit,2014-09-22
+3156,frozen vegetables,2014-11-13
+3157,Instant food products,2014-10-07
+3158,frozen vegetables,2014-06-05
+3159,whole milk,2014-07-23
+3160,yogurt,2014-11-13
+3161,whole milk,2014-11-22
+3163,potato products,2014-12-29
+3164,yogurt,2014-09-24
+3164,napkins,2014-09-24
+3165,whole milk,2014-07-05
+3166,waffles,2015-01-15
+3166,cat food,2015-01-15
+3168,sugar,2014-03-26
+3170,grapes,2015-01-17
+3170,brown bread,2015-01-17
+3171,chocolate,2014-10-17
+3172,dish cleaner,2015-01-03
+3174,butter milk,2014-10-11
+3175,processed cheese,2014-11-18
+3176,citrus fruit,2015-01-17
+3177,butter milk,2014-10-18
+3178,candy,2014-01-02
+3180,whole milk,2014-09-11
+3180,margarine,2014-09-11
+3181,beverages,2014-08-05
+3181,zwieback,2014-08-05
+3182,bottled beer,2014-09-28
+3183,grapes,2014-10-12
+3184,domestic eggs,2014-10-09
+3185,yogurt,2014-12-06
+3186,oil,2014-11-12
+3188,chocolate marshmallow,2014-10-16
+3189,rolls/buns,2014-10-28
+3189,kitchen towels,2014-10-28
+3190,kitchen towels,2014-08-26
+3191,frozen vegetables,2014-11-05
+3193,rolls/buns,2014-10-25
+3194,cake bar,2014-10-26
+3194,soda,2014-10-26
+3197,margarine,2014-01-03
+3200,specialty chocolate,2015-01-04
+3201,bottled water,2014-12-28
+3203,soda,2014-07-22
+3203,flower (seeds),2014-07-22
+3204,frozen fish,2014-12-16
+3205,pip fruit,2015-01-17
+3206,canned vegetables,2014-08-24
+3207,canned fish,2014-06-12
+3208,newspapers,2014-10-12
+3209,liquor,2014-08-04
+3210,hard cheese,2014-12-21
+3211,rolls/buns,2014-12-16
+3212,soda,2014-09-04
+3213,rolls/buns,2014-12-19
+3214,canned vegetables,2015-01-14
+3215,bottled water,2014-02-26
+3216,rolls/buns,2014-02-11
+3217,bottled beer,2014-12-08
+3218,sugar,2014-11-06
+3219,whole milk,2014-01-21
+3220,other vegetables,2014-12-13
+3221,hamburger meat,2015-01-13
+3221,curd,2015-01-13
+3221,bottled beer,2015-01-13
+3221,sweet spreads,2015-01-13
+3222,candy,2014-08-30
+3223,liquor,2014-06-08
+3224,pastry,2015-01-19
+3225,whipped/sour cream,2014-09-19
+3225,napkins,2014-09-19
+3226,long life bakery product,2014-10-25
+3227,whole milk,2014-12-24
+3227,soda,2014-12-24
+3229,coffee,2014-11-16
+3230,roll products ,2015-01-14
+3231,semi-finished bread,2014-03-22
+3232,whipped/sour cream,2014-12-11
+3233,waffles,2014-10-26
+3235,skin care,2014-10-22
+3236,dish cleaner,2014-04-17
+3237,roll products ,2014-10-14
+3238,newspapers,2014-06-02
+3240,whole milk,2015-01-01
+3241,brown bread,2014-08-01
+3242,brown bread,2014-07-29
+3243,pot plants,2014-02-01
+3244,whole milk,2014-07-28
+3246,pastry,2014-12-25
+3246,napkins,2014-12-28
+3246,dessert,2014-12-28
+3247,rolls/buns,2015-01-13
+3247,rolls/buns,2015-01-13
+3247,spread cheese,2015-01-13
+3247,sugar,2015-01-13
+3248,other vegetables,2014-10-25
+3248,chicken,2015-01-14
+3248,root vegetables,2015-01-14
+3249,beverages,2014-12-22
+3250,root vegetables,2014-10-19
+3251,napkins,2014-10-20
+3252,other vegetables,2014-10-29
+3253,whipped/sour cream,2014-06-26
+3254,shopping bags,2014-11-12
+3255,UHT-milk,2014-11-20
+3256,toilet cleaner,2014-12-17
+3257,soda,2014-02-09
+3258,curd,2014-12-19
+3258,yogurt,2014-12-19
+3259,shopping bags,2014-12-03
+3260,waffles,2014-12-30
+3262,frozen meals,2014-04-16
+3263,cling film/bags,2014-07-17
+3264,dessert,2015-01-13
+3265,pastry,2014-09-07
+3266,pork,2014-12-14
+3266,semi-finished bread,2014-12-14
+3267,cat food,2015-01-18
+3268,shopping bags,2014-04-05
+3269,tidbits,2014-09-07
+3271,soda,2014-11-20
+3272,canned beer,2014-04-18
+3273,whole milk,2014-04-02
+3275,frozen potato products,2014-04-12
+3276,curd cheese,2014-08-08
+3277,other vegetables,2014-10-31
+3278,specialty chocolate,2014-11-29
+3279,candy,2014-11-26
+3280,soda,2014-07-06
+3281,napkins,2014-04-19
+3282,other vegetables,2014-12-05
+3283,mayonnaise,2015-01-05
+3284,yogurt,2014-04-01
+3284,other vegetables,2014-04-01
+3285,hygiene articles,2014-10-21
+3286,herbs,2014-08-18
+3287,cleaner,2014-12-11
+3288,other vegetables,2014-04-22
+3289,tropical fruit,2015-01-03
+3289,soft cheese,2015-01-03
+3291,newspapers,2014-01-14
+3292,red/blush wine,2014-08-08
+3293,soda,2014-10-17
+3294,coffee,2014-11-22
+3295,chocolate marshmallow,2014-07-06
+3297,cat food,2014-05-29
+3298,margarine,2014-05-02
+3299,cat food,2014-12-15
+3300,domestic eggs,2014-10-07
+3302,whole milk,2014-10-03
+3303,margarine,2014-12-21
+3304,white bread,2014-11-15
+3305,shopping bags,2014-08-24
+3306,canned beer,2014-11-12
+3307,pip fruit,2014-03-21
+3308,soda,2014-12-09
+3308,napkins,2014-12-09
+3309,domestic eggs,2014-06-06
+3310,yogurt,2015-01-17
+3311,specialty cheese,2015-01-07
+3312,margarine,2014-05-27
+3313,white bread,2014-11-23
+3314,ice cream,2014-08-13
+3315,yogurt,2014-12-27
+3316,seasonal products,2014-10-09
+3317,soda,2014-10-08
+3320,brandy,2014-12-04
+3321,rolls/buns,2014-11-03
+3322,rolls/buns,2014-08-13
+3323,brown bread,2014-08-02
+3324,frozen potato products,2014-12-29
+3325,shopping bags,2014-11-16
+3326,whole milk,2014-07-03
+3327,bottled water,2014-10-13
+3329,frozen vegetables,2014-09-11
+3329,frozen meals,2014-09-11
+3330,spread cheese,2014-08-19
+3332,domestic eggs,2014-09-21
+3333,other vegetables,2014-12-05
+3334,liquor (appetizer),2014-09-01
+3335,long life bakery product,2014-05-09
+3337,liver loaf,2015-01-02
+3338,seasonal products,2014-12-25
+3341,detergent,2014-06-10
+3342,bottled water,2014-12-15
+3343,hygiene articles,2014-11-02
+3344,whole milk,2015-01-04
+3344,rolls/buns,2015-01-04
+3346,frozen meals,2014-11-29
+3347,pastry,2014-11-21
+3348,herbs,2014-11-18
+3348,root vegetables,2014-11-18
+3349,herbs,2014-12-07
+3350,newspapers,2014-05-23
+3351,bottled beer,2014-06-13
+3353,yogurt,2014-10-05
+3354,pastry,2015-01-14
+3356,fruit/vegetable juice,2014-09-30
+3357,mustard,2014-06-22
+3358,chocolate,2014-10-22
+3359,chewing gum,2014-07-25
+3360,candles,2014-12-04
+3361,pork,2014-12-24
+3361,berries,2014-12-24
+3362,soda,2014-05-31
+3363,salty snack,2014-06-08
+3364,other vegetables,2014-07-14
+3365,newspapers,2015-01-02
+3366,white bread,2014-12-19
+3367,long life bakery product,2014-02-27
+3368,specialty bar,2014-11-19
+3369,napkins,2014-07-18
+3370,frozen vegetables,2014-12-14
+3372,canned beer,2014-02-25
+3373,brown bread,2014-09-05
+3374,white bread,2014-07-29
+3375,specialty vegetables,2014-10-19
+3376,cream cheese ,2014-07-01
+3377,ice cream,2014-08-29
+3378,canned beer,2015-01-13
+3379,butter milk,2014-10-12
+3380,other vegetables,2014-08-16
+3381,hygiene articles,2014-10-30
+3382,processed cheese,2014-11-13
+3382,UHT-milk,2014-11-13
+3383,misc. beverages,2014-12-02
+3384,soda,2014-11-13
+3385,pet care,2014-04-05
+3386,soda,2014-10-05
+3387,fruit/vegetable juice,2014-09-22
+3389,newspapers,2014-07-20
+3390,coffee,2015-01-12
+3393,bottled water,2014-06-25
+3394,shopping bags,2014-11-22
+3395,rolls/buns,2014-03-17
+3396,whipped/sour cream,2014-10-24
+3397,candy,2014-10-28
+3398,chocolate,2015-01-18
+3399,whole milk,2014-05-25
+3400,dental care,2014-10-07
+3401,yogurt,2014-03-17
+3402,bottled water,2014-12-26
+3403,shopping bags,2014-04-16
+3405,cream cheese ,2014-08-20
+3407,cling film/bags,2014-12-16
+3408,waffles,2014-07-04
+3409,brown bread,2014-08-09
+3410,spread cheese,2015-01-16
+3411,margarine,2014-11-30
+3413,bottled water,2014-10-27
+3414,napkins,2014-05-22
+3415,bottled water,2014-10-06
+3416,frozen vegetables,2014-07-13
+3417,whole milk,2014-02-09
+3418,domestic eggs,2014-11-27
+3420,other vegetables,2014-10-15
+3421,organic products,2014-10-18
+3422,pastry,2014-07-27
+3423,fruit/vegetable juice,2014-11-07
+3424,root vegetables,2015-01-05
+3425,rolls/buns,2014-12-15
+3426,yogurt,2014-10-21
+3427,specialty chocolate,2014-11-05
+3428,butter milk,2014-10-21
+3429,newspapers,2015-01-04
+3430,dishes,2014-12-08
+3431,brown bread,2014-07-31
+3433,salty snack,2015-01-10
+3435,coffee,2014-10-04
+3435,roll products ,2014-10-04
+3437,pastry,2014-10-31
+3437,bottled beer,2014-10-31
+3438,margarine,2014-11-06
+3439,brown bread,2014-06-12
+3441,rolls/buns,2014-04-20
+3442,fruit/vegetable juice,2014-11-16
+3443,domestic eggs,2014-09-26
+3444,margarine,2014-08-04
+3445,cream cheese ,2015-01-10
+3447,canned fish,2014-06-30
+3448,tea,2014-09-26
+3450,pip fruit,2014-11-26
+3451,yogurt,2014-08-06
+3452,other vegetables,2015-01-11
+3453,soda,2014-04-09
+3455,other vegetables,2015-01-02
+3456,hygiene articles,2014-12-24
+3457,coffee,2014-09-11
+3458,dessert,2014-12-23
+3459,whole milk,2014-06-21
+3461,sugar,2014-05-19
+3462,berries,2014-12-16
+3462,specialty cheese,2014-12-16
+3464,brown bread,2014-07-03
+3465,chicken,2015-01-15
+3465,frozen vegetables,2015-01-15
+3465,candles,2015-01-15
+3466,salt,2014-09-12
+3467,candy,2014-10-20
+3468,yogurt,2014-02-06
+3469,whole milk,2014-11-04
+3470,shopping bags,2014-11-22
+3471,rolls/buns,2015-01-14
+3473,shopping bags,2014-02-08
+3474,newspapers,2014-11-26
+3474,roll products ,2014-11-26
+3475,yogurt,2014-12-23
+3476,pasta,2014-06-30
+3477,long life bakery product,2014-07-17
+3479,pastry,2014-10-05
+3480,chocolate,2014-10-08
+3481,other vegetables,2014-05-30
+3482,root vegetables,2014-07-30
+3483,chicken,2015-01-15
+3484,pickled vegetables,2014-12-25
+3485,misc. beverages,2014-10-11
+3486,candy,2014-12-09
+3487,pip fruit,2014-10-25
+3487,sugar,2014-10-25
+3488,specialty chocolate,2014-06-25
+3489,yogurt,2015-01-09
+3489,specialty chocolate,2015-01-09
+3491,whole milk,2014-11-12
+3493,canned beer,2014-09-02
+3494,dessert,2014-03-31
+3495,pork,2015-01-02
+3495,oil,2015-01-02
+3496,long life bakery product,2014-12-20
+3498,napkins,2014-08-16
+3499,canned beer,2014-10-14
+3499,yogurt,2015-01-13
+3499,napkins,2015-01-13
+3500,tropical fruit,2015-01-18
+3501,whipped/sour cream,2014-06-13
+3502,whole milk,2014-12-07
+3502,cream cheese ,2014-12-07
+3505,coffee,2014-11-30
+3505,UHT-milk,2014-11-30
+3507,UHT-milk,2014-09-08
+3508,waffles,2014-12-15
+3509,bottled water,2014-05-10
+3511,chewing gum,2014-09-09
+3512,butter milk,2014-01-19
+3514,butter,2014-12-13
+3515,pastry,2014-06-09
+3516,bottled beer,2014-09-09
+3517,specialty bar,2014-11-27
+3517,brown bread,2014-11-27
+3518,ham,2015-01-08
+3518,brown bread,2015-01-08
+3520,pudding powder,2014-12-05
+3521,yogurt,2014-12-25
+3522,liquor,2014-03-23
+3523,chocolate,2015-01-04
+3524,newspapers,2014-11-30
+3524,frozen vegetables,2014-11-30
+3525,soda,2014-09-07
+3526,other vegetables,2014-10-24
+3527,processed cheese,2014-04-09
+3528,salty snack,2014-07-09
+3529,yogurt,2014-08-26
+3529,root vegetables,2014-08-26
+3530,soda,2014-06-18
+3531,butter,2014-12-26
+3532,canned vegetables,2014-08-17
+3533,other vegetables,2014-08-22
+3534,processed cheese,2014-08-01
+3535,pastry,2015-01-18
+3535,specialty chocolate,2015-01-18
+3536,soups,2014-04-04
+3537,cookware,2014-10-08
+3538,other vegetables,2015-01-03
+3539,yogurt,2014-09-05
+3539,tropical fruit,2014-09-05
+3540,bottled water,2014-10-27
+3541,house keeping products,2014-03-18
+3543,processed cheese,2014-09-13
+3544,flower (seeds),2014-12-03
+3545,curd,2014-11-29
+3546,frozen dessert,2014-12-10
+3548,rolls/buns,2015-01-06
+3548,instant coffee,2015-01-06
+3549,salty snack,2014-10-06
+3549,beef,2015-01-08
+3549,misc. beverages,2015-01-08
+3550,waffles,2014-12-18
+3551,cereals,2015-01-05
+3552,yogurt,2014-10-29
+3553,ham,2015-01-06
+3554,salty snack,2014-05-11
+3555,curd,2014-10-14
+3556,whipped/sour cream,2014-12-17
+3557,brown bread,2014-06-05
+3558,yogurt,2014-09-11
+3559,spread cheese,2014-12-18
+3559,cooking chocolate,2014-12-18
+3560,soft cheese,2014-11-26
+3560,pickled vegetables,2014-11-26
+3561,whole milk,2014-12-28
+3562,newspapers,2014-12-17
+3563,ice cream,2014-12-12
+3564,frozen vegetables,2014-02-23
+3565,shopping bags,2014-04-15
+3566,hygiene articles,2014-01-16
+3568,newspapers,2014-08-14
+3569,spread cheese,2014-10-08
+3570,oil,2014-09-14
+3571,other vegetables,2014-10-31
+3573,butter,2014-11-19
+3574,domestic eggs,2014-02-20
+3575,bottled water,2015-01-20
+3576,herbs,2014-05-15
+3577,fruit/vegetable juice,2014-07-02
+3578,shopping bags,2014-10-09
+3579,yogurt,2014-06-10
+3580,butter,2014-03-17
+3581,rolls/buns,2015-01-16
+3581,liquor (appetizer),2015-01-16
+3582,napkins,2014-11-29
+3582,cereals,2014-11-29
+3583,whipped/sour cream,2014-09-13
+3584,soda,2014-11-18
+3586,newspapers,2014-10-27
+3587,shopping bags,2014-03-08
+3588,brown bread,2014-04-17
+3589,fruit/vegetable juice,2014-07-24
+3590,bottled beer,2014-10-31
+3592,cream cheese ,2014-12-20
+3593,yogurt,2014-12-04
+3594,misc. beverages,2014-05-11
+3595,waffles,2014-06-01
+3596,soda,2015-01-19
+3598,whipped/sour cream,2014-03-13
+3599,cleaner,2014-12-23
+3600,pickled vegetables,2014-08-04
+3601,meat,2015-01-04
+3602,domestic eggs,2014-10-27
+3603,zwieback,2014-08-13
+3604,root vegetables,2014-12-08
+3606,whipped/sour cream,2014-11-11
+3607,margarine,2014-02-22
+3608,specialty chocolate,2014-11-16
+3609,fruit/vegetable juice,2014-12-08
+3610,root vegetables,2014-09-16
+3611,whipped/sour cream,2014-09-21
+3612,shopping bags,2014-12-03
+3613,flour,2014-10-20
+3614,spices,2014-09-20
+3615,whole milk,2014-06-13
+3616,rolls/buns,2014-11-06
+3617,oil,2014-07-28
+3618,flour,2014-07-22
+3619,newspapers,2014-12-21
+3620,soda,2014-09-14
+3621,bottled water,2014-05-22
+3622,cereals,2014-09-28
+3624,hard cheese,2014-12-05
+3625,whole milk,2014-10-17
+3626,other vegetables,2014-11-06
+3627,brandy,2014-06-07
+3628,female sanitary products,2014-01-08
+3629,rolls/buns,2014-11-22
+3630,salt,2014-07-27
+3631,frozen vegetables,2014-12-09
+3632,candy,2014-11-06
+3633,oil,2014-12-10
+3635,pasta,2014-12-23
+3636,bottled water,2014-11-19
+3639,root vegetables,2014-11-29
+3641,bottled water,2014-02-04
+3642,other vegetables,2014-08-11
+3643,male cosmetics,2014-09-26
+3643,pastry,2014-09-26
+3644,photo/film,2014-04-16
+3645,sugar,2014-08-22
+3646,coffee,2014-12-05
+3647,cream cheese ,2014-05-15
+3649,grapes,2015-01-16
+3649,bottled beer,2015-01-16
+3649,yogurt,2015-01-16
+3650,frozen vegetables,2014-12-23
+3651,brown bread,2014-09-09
+3652,frozen vegetables,2014-11-15
+3653,margarine,2014-07-09
+3654,newspapers,2014-06-17
+3655,butter milk,2014-10-05
+3656,dental care,2014-01-20
+3657,whole milk,2014-11-28
+3657,white bread,2014-11-28
+3658,whipped/sour cream,2014-08-05
+3659,canned beer,2014-12-11
+3660,sugar,2014-10-14
+3660,canned vegetables,2014-10-14
+3661,syrup,2014-04-03
+3662,beverages,2014-08-26
+3663,chewing gum,2014-12-19
+3663,cream cheese ,2014-12-19
+3664,napkins,2014-02-13
+3665,hygiene articles,2014-11-15
+3666,cream cheese ,2014-12-04
+3667,bottled water,2014-12-13
+3668,fruit/vegetable juice,2014-11-08
+3669,margarine,2015-01-17
+3670,detergent,2014-12-17
+3671,whole milk,2014-04-16
+3672,root vegetables,2014-09-30
+3673,cream cheese ,2014-11-08
+3674,cream cheese ,2014-08-07
+3675,popcorn,2014-11-15
+3676,honey,2014-09-06
+3677,domestic eggs,2015-01-09
+3678,hygiene articles,2014-07-07
+3679,salty snack,2014-05-25
+3680,rolls/buns,2014-10-25
+3681,frozen vegetables,2014-09-06
+3682,processed cheese,2014-12-24
+3683,tidbits,2014-07-11
+3684,butter,2014-08-28
+3685,soda,2014-07-20
+3686,coffee,2015-01-04
+3687,other vegetables,2014-01-10
+3688,whipped/sour cream,2014-09-02
+3689,rolls/buns,2014-10-09
+3691,bottled beer,2014-02-24
+3692,bottled beer,2014-10-19
+3693,whipped/sour cream,2014-06-06
+3694,dish cleaner,2014-01-08
+3695,rolls/buns,2014-12-10
+3696,frozen vegetables,2014-05-04
+3697,dessert,2014-11-02
+3698,whole milk,2014-11-07
+3699,root vegetables,2014-08-14
+3701,pet care,2014-08-25
+3703,house keeping products,2014-04-30
+3704,whole milk,2014-03-12
+3705,yogurt,2014-08-17
+3706,pastry,2014-11-17
+3707,herbs,2014-10-12
+3708,pip fruit,2014-10-27
+3709,cat food,2014-12-05
+3710,onions,2014-09-14
+3711,domestic eggs,2014-05-20
+3712,canned beer,2014-08-14
+3713,whole milk,2014-12-17
+3714,butter,2014-07-06
+3715,bottled water,2014-04-04
+3716,sweet spreads,2014-07-27
+3717,frozen vegetables,2015-01-04
+3718,hygiene articles,2014-07-07
+3719,pastry,2014-10-26
+3720,margarine,2014-09-08
+3721,waffles,2014-11-18
+3722,semi-finished bread,2014-05-07
+3724,white wine,2014-05-07
+3725,rolls/buns,2014-09-20
+3726,whole milk,2014-03-09
+3727,citrus fruit,2014-07-28
+3727,soda,2014-07-28
+3728,white bread,2014-10-28
+3729,domestic eggs,2014-12-24
+3730,onions,2014-07-26
+3731,other vegetables,2014-08-18
+3732,newspapers,2014-07-14
+3733,butter,2014-05-23
+3734,rolls/buns,2014-12-16
+3735,whole milk,2014-07-13
+3736,liquor (appetizer),2014-02-16
+3737,whole milk,2014-12-30
+3737,pip fruit,2014-12-30
+3738,frozen vegetables,2015-01-04
+3739,salty snack,2014-12-01
+3740,napkins,2014-05-19
+3742,shopping bags,2014-09-26
+3743,pickled vegetables,2014-12-22
+3743,hard cheese,2014-12-22
+3744,processed cheese,2014-03-11
+3745,specialty bar,2014-12-22
+3745,soda,2014-12-22
+3746,spread cheese,2014-05-04
+3747,salt,2014-05-11
+3748,brown bread,2014-02-16
+3749,waffles,2014-10-12
+3750,yogurt,2014-09-30
+3751,dishes,2015-01-01
+3752,shopping bags,2014-11-25
+3753,UHT-milk,2014-12-28
+3755,whole milk,2014-11-19
+3756,other vegetables,2014-11-15
+3757,sugar,2014-12-18
+3758,coffee,2015-01-13
+3758,whole milk,2015-01-13
+3759,shopping bags,2014-08-29
+3760,shopping bags,2014-11-09
+3761,whole milk,2014-12-25
+3761,long life bakery product,2014-12-25
+3762,photo/film,2014-11-28
+3763,chocolate,2014-07-15
+3764,yogurt,2015-01-08
+3765,processed cheese,2014-11-08
+3766,rolls/buns,2014-02-20
+3767,male cosmetics,2014-06-22
+3768,pork,2015-01-16
+3768,curd,2015-01-16
+3769,hygiene articles,2014-02-16
+3770,curd,2015-01-13
+3771,dishes,2014-12-21
+3772,shopping bags,2014-07-30
+3773,margarine,2014-11-09
+3775,cookware,2014-10-11
+3776,chicken,2014-11-28
+3776,frozen meals,2014-11-28
+3777,whole milk,2014-02-26
+3778,coffee,2015-01-10
+3779,pastry,2014-10-27
+3780,domestic eggs,2014-02-24
+3781,margarine,2014-06-07
+3782,shopping bags,2014-09-21
+3782,root vegetables,2014-09-21
+3782,curd,2014-09-21
+3783,ready soups,2014-11-04
+3784,whipped/sour cream,2014-04-30
+3785,newspapers,2014-12-07
+3786,bottled water,2014-10-22
+3787,whipped/sour cream,2014-09-25
+3789,hygiene articles,2014-10-03
+3790,yogurt,2014-09-06
+3792,whipped/sour cream,2014-07-30
+3793,coffee,2014-11-13
+3794,liquor (appetizer),2015-01-11
+3795,yogurt,2015-01-17
+3797,cream,2015-01-20
+3798,soda,2014-02-15
+3799,pip fruit,2014-10-11
+3800,newspapers,2014-11-25
+3801,pastry,2014-08-25
+3802,chewing gum,2014-08-06
+3803,rolls/buns,2014-06-17
+3804,other vegetables,2014-12-27
+3805,specialty fat,2014-09-18
+3807,fruit/vegetable juice,2014-02-03
+3808,bottled water,2014-11-18
+3809,detergent,2014-11-11
+3810,soft cheese,2014-07-21
+3811,yogurt,2014-07-21
+3811,bottled water,2014-07-21
+3812,long life bakery product,2014-11-07
+3813,cat food,2015-01-18
+3814,domestic eggs,2014-10-22
+3815,cake bar,2014-03-09
+3816,packaged fruit/vegetables,2014-10-24
+3817,hard cheese,2014-12-29
+3817,candles,2014-12-29
+3818,whole milk,2014-11-03
+3820,misc. beverages,2014-10-05
+3821,whipped/sour cream,2014-12-14
+3822,fruit/vegetable juice,2014-12-23
+3823,frozen vegetables,2014-10-12
+3825,shopping bags,2014-01-27
+3826,shopping bags,2014-04-27
+3827,soda,2014-11-09
+3828,bottled water,2014-05-16
+3830,ice cream,2014-12-10
+3830,newspapers,2014-12-10
+3830,pastry,2014-12-10
+3831,candy,2014-03-29
+3832,shopping bags,2014-12-01
+3832,specialty bar,2014-12-01
+3834,salty snack,2014-05-18
+3835,fruit/vegetable juice,2014-10-15
+3835,bottled beer,2014-10-15
+3836,margarine,2014-06-14
+3837,hard cheese,2014-01-12
+3838,cooking chocolate,2014-12-21
+3839,rice,2014-09-13
+3840,butter,2014-11-01
+3841,ham,2015-01-02
+3841,other vegetables,2015-01-02
+3842,bottled water,2015-01-07
+3843,napkins,2014-09-12
+3844,pickled vegetables,2014-11-13
+3844,house keeping products,2014-11-13
+3846,pickled vegetables,2014-11-07
+3846,whole milk,2014-11-07
+3847,UHT-milk,2014-08-06
+3848,brown bread,2014-04-01
+3849,root vegetables,2014-12-15
+3849,beverages,2014-12-15
+3850,pickled vegetables,2014-07-01
+3851,chocolate,2014-11-08
+3852,other vegetables,2015-01-04
+3854,tidbits,2014-12-27
+3855,white wine,2014-11-01
+3856,cereals,2014-12-05
+3857,bottled water,2015-01-10
+3857,tropical fruit,2015-01-10
+3860,domestic eggs,2014-06-10
+3861,sweet spreads,2014-12-02
+3862,bottled water,2014-12-26
+3862,salty snack,2014-12-26
+3863,cake bar,2014-12-09
+3863,red/blush wine,2014-12-09
+3864,other vegetables,2014-12-30
+3864,sliced cheese,2014-12-30
+3866,bottled beer,2014-10-19
+3867,flower soil/fertilizer,2014-10-08
+3869,herbs,2015-01-08
+3871,margarine,2014-08-16
+3872,salty snack,2014-08-23
+3874,fruit/vegetable juice,2014-07-19
+3876,hard cheese,2014-10-12
+3877,rolls/buns,2014-06-27
+3878,rolls/buns,2014-11-27
+3879,tropical fruit,2014-10-14
+3879,grapes,2014-10-14
+3881,frozen vegetables,2014-12-16
+3882,butter milk,2014-08-15
+3883,sweet spreads,2014-05-03
+3884,butter,2014-12-10
+3886,vinegar,2015-01-04
+3887,bottled water,2014-09-24
+3888,butter,2014-10-16
+3889,soda,2014-12-23
+3890,frozen potato products,2014-12-21
+3891,dessert,2014-11-10
+3892,specialty vegetables,2014-07-04
+3893,newspapers,2014-09-10
+3894,yogurt,2014-10-02
+3895,curd,2014-06-14
+3895,light bulbs,2014-06-14
+3896,dishes,2014-11-07
+3897,UHT-milk,2015-01-02
+3898,whipped/sour cream,2014-10-11
+3899,brown bread,2014-04-22
+3900,shopping bags,2014-12-06
+3900,coffee,2014-12-06
+3901,coffee,2014-11-30
+3902,liquor (appetizer),2014-10-27
+3903,fruit/vegetable juice,2014-07-04
+3904,newspapers,2014-09-24
+3905,other vegetables,2014-11-05
+3905,soda,2014-11-05
+3906,sauces,2014-10-30
+3907,other vegetables,2014-09-05
+3908,pastry,2014-04-27
+3909,rolls/buns,2014-11-16
+3909,processed cheese,2014-11-16
+3910,butter,2014-12-30
+3911,chocolate,2014-03-24
+3912,cream cheese ,2014-08-12
+3913,newspapers,2014-11-04
+3914,specialty bar,2014-12-11
+3915,other vegetables,2014-11-06
+3915,coffee,2014-11-06
+3916,dishes,2014-05-24
+3917,grapes,2014-06-03
+3917,butter,2014-06-03
+3918,butter,2014-12-14
+3918,specialty chocolate,2014-12-14
+3919,bottled beer,2014-08-02
+3920,coffee,2014-11-01
+3921,cream cheese ,2014-06-18
+3922,whole milk,2015-01-04
+3923,bottled water,2014-12-19
+3924,pastry,2014-12-01
+3925,margarine,2014-07-26
+3926,cat food,2014-10-02
+3927,brown bread,2014-09-26
+3928,domestic eggs,2014-07-08
+3929,dish cleaner,2014-10-01
+3930,pastry,2014-05-31
+3931,canned beer,2014-10-26
+3931,long life bakery product,2014-10-26
+3932,bottled beer,2014-07-05
+3933,shopping bags,2014-12-07
+3934,newspapers,2015-01-05
+3935,specialty bar,2014-12-04
+3936,domestic eggs,2014-06-27
+3937,tea,2014-08-10
+3938,citrus fruit,2014-11-10
+3938,shopping bags,2014-11-10
+3939,abrasive cleaner,2014-09-25
+3940,semi-finished bread,2015-01-16
+3941,specialty cheese,2014-10-11
+3942,flour,2014-12-16
+3942,hamburger meat,2014-12-16
+3942,cling film/bags,2014-12-16
+3943,condensed milk,2014-03-04
+3945,cereals,2014-10-15
+3946,cake bar,2014-12-26
+3947,chewing gum,2014-08-02
+3948,whole milk,2014-10-04
+3949,bottled water,2015-01-04
+3950,tropical fruit,2015-01-10
+3952,abrasive cleaner,2014-07-27
+3953,root vegetables,2014-05-19
+3956,Instant food products,2014-10-26
+3956,butter milk,2014-12-19
+3956,root vegetables,2014-12-19
+3957,chicken,2014-07-29
+3957,bottled water,2014-07-29
+3959,instant coffee,2014-05-21
+3960,margarine,2014-05-14
+3961,soda,2014-12-18
+3962,rolls/buns,2014-12-13
+3963,whipped/sour cream,2014-09-21
+3964,whipped/sour cream,2014-11-03
+3965,semi-finished bread,2014-12-30
+3966,root vegetables,2015-01-06
+3967,shopping bags,2014-10-10
+3968,frozen vegetables,2014-05-11
+3969,dog food,2014-05-09
+3970,processed cheese,2014-02-11
+3971,whole milk,2014-11-11
+3972,soda,2014-09-10
+3972,hygiene articles,2014-09-10
+3973,pickled vegetables,2014-06-28
+3974,bottled water,2014-08-25
+3975,liquor,2014-04-29
+3976,pasta,2014-10-25
+3977,frozen meals,2014-01-02
+3978,mustard,2014-06-09
+3979,ice cream,2014-02-26
+3980,soda,2014-05-31
+3982,yogurt,2014-11-22
+3984,soft cheese,2014-02-09
+3985,bottled beer,2015-01-20
+3986,chewing gum,2014-08-09
+3987,yogurt,2014-08-31
+3989,rolls/buns,2014-10-18
+3990,butter,2014-05-16
+3991,margarine,2014-03-07
+3992,dessert,2014-12-04
+3994,onions,2014-02-12
+3996,tropical fruit,2014-11-27
+3997,bottled beer,2014-11-22
+3998,frozen vegetables,2014-11-08
+4001,soda,2014-11-06
+4002,butter milk,2014-08-24
+4003,detergent,2014-12-21
+4005,vinegar,2014-05-13
+4006,napkins,2014-11-25
+4007,specialty chocolate,2014-09-12
+4008,canned fish,2014-12-18
+4009,soda,2014-12-21
+4010,other vegetables,2014-11-08
+4011,other vegetables,2014-08-28
+4012,cream cheese ,2014-10-11
+4013,popcorn,2014-12-23
+4014,pip fruit,2014-07-31
+4015,yogurt,2014-12-18
+4016,sweet spreads,2014-07-23
+4017,soda,2014-08-28
+4018,soda,2014-11-23
+4018,napkins,2014-11-23
+4019,rum,2014-10-31
+4020,frozen potato products,2014-01-12
+4021,other vegetables,2014-10-31
+4022,UHT-milk,2014-10-07
+4024,dog food,2014-11-22
+4025,yogurt,2014-10-04
+4028,whipped/sour cream,2014-12-06
+4029,soda,2014-10-27
+4030,margarine,2014-05-29
+4031,other vegetables,2015-01-14
+4032,frozen vegetables,2014-07-18
+4033,frozen vegetables,2014-03-18
+4034,specialty bar,2014-08-29
+4035,butter,2014-07-14
+4036,canned beer,2014-06-20
+4036,honey,2014-06-20
+4037,pasta,2014-12-26
+4038,canned beer,2014-06-23
+4039,vinegar,2015-01-19
+4040,chocolate,2014-11-14
+4041,white bread,2014-04-25
+4042,canned beer,2014-07-26
+4044,hamburger meat,2015-01-12
+4045,beverages,2014-11-02
+4046,semi-finished bread,2014-12-29
+4047,shopping bags,2014-04-04
+4048,rolls/buns,2014-12-04
+4049,whole milk,2015-01-08
+4049,semi-finished bread,2015-01-08
+4050,whole milk,2014-09-03
+4051,white bread,2014-12-18
+4052,specialty vegetables,2014-05-17
+4054,napkins,2014-05-10
+4055,soda,2014-03-25
+4056,salty snack,2014-10-05
+4058,butter milk,2014-12-18
+4059,bottled water,2014-06-13
+4060,rolls/buns,2014-11-10
+4061,frozen potato products,2014-04-07
+4062,sugar,2014-11-27
+4065,bottled water,2014-12-10
+4066,citrus fruit,2014-07-08
+4067,condensed milk,2014-04-29
+4068,canned beer,2014-06-29
+4069,Instant food products,2014-10-08
+4070,soft cheese,2014-08-03
+4071,other vegetables,2014-12-16
+4073,misc. beverages,2014-04-26
+4074,yogurt,2014-11-14
+4075,butter,2014-08-03
+4076,bathroom cleaner,2014-11-18
+4077,sauces,2014-12-25
+4078,hard cheese,2014-11-01
+4079,curd,2014-03-18
+4080,salty snack,2014-10-11
+4081,domestic eggs,2014-11-01
+4082,specialty chocolate,2015-01-18
+4082,brandy,2015-01-18
+4083,chocolate,2014-08-15
+4084,other vegetables,2014-11-28
+4085,whipped/sour cream,2014-08-05
+4086,pastry,2014-11-15
+4086,salty snack,2014-11-15
+4087,other vegetables,2014-04-09
+4088,curd,2015-01-13
+4089,bottled water,2014-03-18
+4090,pot plants,2014-09-16
+4091,rolls/buns,2014-08-26
+4092,root vegetables,2014-06-19
+4093,herbs,2014-08-09
+4094,fruit/vegetable juice,2014-10-21
+4095,butter,2015-01-11
+4096,fruit/vegetable juice,2014-06-13
+4097,whole milk,2014-07-14
+4098,soda,2014-12-09
+4099,Instant food products,2014-05-23
+4100,whipped/sour cream,2015-01-03
+4101,brown bread,2014-11-27
+4103,curd,2014-12-22
+4104,soda,2015-01-01
+4105,onions,2014-10-26
+4106,pastry,2014-09-21
+4107,pastry,2014-05-10
+4108,chewing gum,2014-09-13
+4109,rolls/buns,2014-05-12
+4110,red/blush wine,2014-03-15
+4112,specialty chocolate,2014-10-14
+4113,curd,2014-12-23
+4114,flour,2014-07-08
+4115,yogurt,2014-08-02
+4116,detergent,2015-01-05
+4117,liquor,2014-12-07
+4119,frozen vegetables,2014-10-24
+4120,roll products ,2015-01-17
+4121,whole milk,2015-01-11
+4121,shopping bags,2015-01-11
+4121,curd,2015-01-11
+4122,bottled water,2014-10-20
+4123,cooking chocolate,2014-07-07
+4124,chicken,2014-12-25
+4124,rolls/buns,2014-12-25
+4125,pet care,2014-09-21
+4126,hamburger meat,2014-10-18
+4127,mustard,2014-03-18
+4129,root vegetables,2014-10-23
+4129,soda,2014-10-23
+4130,berries,2014-10-24
+4130,yogurt,2014-10-24
+4131,other vegetables,2014-08-10
+4132,margarine,2014-09-20
+4133,soups,2014-08-22
+4134,specialty bar,2014-12-26
+4135,cream cheese ,2014-11-05
+4136,frozen dessert,2014-03-16
+4137,oil,2014-12-15
+4137,fruit/vegetable juice,2014-12-21
+4137,fruit/vegetable juice,2014-12-21
+4138,processed cheese,2014-08-24
+4139,bottled water,2014-03-25
+4140,whole milk,2014-02-20
+4143,salt,2014-07-03
+4144,whole milk,2015-01-04
+4145,pastry,2014-05-17
+4146,root vegetables,2014-11-04
+4146,bottled beer,2014-11-04
+4147,napkins,2014-08-25
+4148,UHT-milk,2014-09-28
+4149,dessert,2014-12-05
+4150,cream cheese ,2014-08-17
+4152,condensed milk,2014-12-21
+4153,brown bread,2014-09-28
+4153,cream cheese ,2014-09-28
+4154,pasta,2014-12-16
+4155,softener,2014-10-09
+4155,Instant food products,2014-10-09
+4156,butter milk,2014-12-13
+4157,frozen meals,2014-01-04
+4159,cat food,2014-11-07
+4160,dish cleaner,2014-10-07
+4162,bottled water,2014-08-16
+4163,bottled beer,2014-06-06
+4164,prosecco,2014-09-25
+4164,canned fish,2014-09-25
+4165,pot plants,2014-11-11
+4165,tropical fruit,2014-12-01
+4165,condensed milk,2014-12-01
+4166,whole milk,2014-07-12
+4167,sauces,2014-10-28
+4168,margarine,2014-09-23
+4169,domestic eggs,2014-09-08
+4169,soda,2014-09-08
+4170,newspapers,2015-01-19
+4171,whole milk,2014-07-01
+4172,whipped/sour cream,2014-02-16
+4173,whipped/sour cream,2014-02-14
+4174,rolls/buns,2014-10-18
+4176,waffles,2014-11-06
+4177,yogurt,2014-05-02
+4178,brown bread,2014-12-25
+4179,other vegetables,2014-03-08
+4180,brown bread,2015-01-04
+4181,rolls/buns,2014-07-09
+4182,white bread,2014-11-15
+4183,whole milk,2015-01-15
+4183,domestic eggs,2015-01-15
+4183,shopping bags,2015-01-15
+4184,rolls/buns,2014-09-17
+4185,rolls/buns,2015-01-16
+4187,onions,2014-04-19
+4188,shopping bags,2014-08-20
+4190,soda,2014-12-30
+4190,cake bar,2014-12-30
+4191,spread cheese,2014-10-11
+4192,whole milk,2014-08-06
+4193,pastry,2014-12-29
+4194,fruit/vegetable juice,2014-12-25
+4195,rolls/buns,2015-01-10
+4196,whole milk,2014-07-27
+4197,detergent,2014-09-29
+4198,canned fish,2014-10-11
+4199,baking powder,2014-08-24
+4200,shopping bags,2014-06-23
+4201,curd,2014-12-09
+4201,syrup,2014-12-09
+4202,long life bakery product,2014-12-07
+4204,whipped/sour cream,2014-11-11
+4206,margarine,2014-11-12
+4206,frozen vegetables,2014-11-27
+4206,fruit/vegetable juice,2014-11-27
+4207,candy,2014-10-21
+4208,rolls/buns,2014-03-02
+4209,long life bakery product,2014-07-29
+4210,shopping bags,2014-03-17
+4211,pastry,2014-09-16
+4211,margarine,2014-09-16
+4212,tropical fruit,2015-01-05
+4213,rolls/buns,2014-06-11
+4214,domestic eggs,2014-10-07
+4215,newspapers,2014-10-04
+4216,citrus fruit,2014-12-25
+4217,whole milk,2015-01-12
+4217,bottled water,2015-01-12
+4218,domestic eggs,2014-09-15
+4219,sliced cheese,2014-09-21
+4220,soft cheese,2014-05-05
+4221,shopping bags,2014-04-05
+4222,other vegetables,2014-05-20
+4223,newspapers,2014-06-15
+4224,pastry,2014-08-30
+4225,bottled beer,2015-01-05
+4226,dessert,2014-11-27
+4227,rolls/buns,2014-08-08
+4228,beverages,2014-08-02
+4229,dessert,2014-07-17
+4230,canned beer,2014-05-28
+4231,long life bakery product,2014-04-02
+4232,processed cheese,2014-10-06
+4233,cleaner,2014-08-18
+4234,pip fruit,2014-10-27
+4234,whole milk,2014-10-27
+4235,chocolate,2014-10-18
+4236,skin care,2014-05-13
+4237,pastry,2014-05-20
+4239,napkins,2014-08-12
+4241,cat food,2014-09-22
+4242,brown bread,2014-01-30
+4243,whipped/sour cream,2014-12-29
+4244,pot plants,2014-12-16
+4245,tropical fruit,2014-11-21
+4246,whole milk,2015-01-12
+4247,butter,2014-02-01
+4248,margarine,2014-09-10
+4249,shopping bags,2014-01-03
+4250,cake bar,2014-10-25
+4251,pork,2015-01-17
+4251,pastry,2015-01-17
+4252,newspapers,2014-12-25
+4254,domestic eggs,2014-12-25
+4255,brown bread,2014-09-29
+4256,oil,2014-09-05
+4257,dessert,2014-06-14
+4258,frozen meals,2014-06-24
+4259,domestic eggs,2014-12-20
+4260,brown bread,2014-01-01
+4261,other vegetables,2014-09-28
+4261,napkins,2014-09-28
+4262,newspapers,2014-08-17
+4264,spices,2014-07-20
+4265,soda,2014-10-31
+4266,soda,2014-11-29
+4266,frozen vegetables,2014-11-29
+4267,newspapers,2014-12-11
+4268,margarine,2014-12-07
+4269,dishes,2015-01-04
+4269,whipped/sour cream,2015-01-04
+4270,brown bread,2014-03-16
+4271,pasta,2014-12-19
+4272,soda,2014-10-05
+4272,napkins,2014-11-25
+4272,specialty chocolate,2014-11-25
+4272,other vegetables,2014-11-25
+4273,frozen vegetables,2015-01-06
+4274,whole milk,2015-01-08
+4275,whole milk,2014-10-30
+4277,rolls/buns,2014-04-09
+4278,canned vegetables,2014-05-20
+4279,butter milk,2014-01-27
+4280,bottled water,2014-06-26
+4280,cat food,2014-06-26
+4281,hard cheese,2014-09-03
+4282,hair spray,2014-06-20
+4283,bottled beer,2014-11-06
+4284,canned beer,2014-06-18
+4285,mustard,2014-08-17
+4286,yogurt,2014-11-22
+4287,canned vegetables,2014-07-20
+4288,canned beer,2014-09-24
+4289,onions,2014-05-09
+4290,yogurt,2014-06-30
+4291,bottled water,2014-07-08
+4292,coffee,2014-06-04
+4293,herbs,2014-04-17
+4294,flour,2014-12-17
+4296,chocolate,2014-12-15
+4297,other vegetables,2014-12-24
+4297,whole milk,2014-12-24
+4297,curd,2014-12-24
+4298,salty snack,2014-10-20
+4299,rolls/buns,2014-10-21
+4300,soft cheese,2014-01-28
+4301,soft cheese,2015-01-05
+4301,yogurt,2015-01-05
+4302,misc. beverages,2014-11-26
+4303,specialty bar,2014-11-28
+4304,sugar,2015-01-02
+4305,soda,2014-12-18
+4306,napkins,2014-05-17
+4307,shopping bags,2014-05-07
+4308,sliced cheese,2014-11-29
+4309,white bread,2014-04-13
+4310,red/blush wine,2014-07-07
+4311,newspapers,2014-06-23
+4312,margarine,2014-07-19
+4313,newspapers,2014-07-17
+4314,other vegetables,2014-12-02
+4314,waffles,2014-12-02
+4315,canned beer,2014-04-19
+4316,meat,2014-08-31
+4316,detergent,2014-08-31
+4316,canned beer,2014-08-31
+4317,cream cheese ,2014-03-27
+4318,specialty fat,2014-09-08
+4319,shopping bags,2014-10-03
+4320,butter,2015-01-13
+4321,misc. beverages,2014-08-13
+4322,coffee,2014-07-25
+4323,cocoa drinks,2014-09-20
+4324,napkins,2014-10-29
+4325,oil,2014-11-12
+4327,frozen vegetables,2014-05-08
+4329,dessert,2014-10-23
+4330,whipped/sour cream,2014-09-24
+4331,other vegetables,2014-08-17
+4333,soft cheese,2015-01-07
+4334,margarine,2014-03-16
+4335,margarine,2014-07-17
+4336,brown bread,2014-12-10
+4337,cream cheese ,2014-08-28
+4338,pip fruit,2014-10-25
+4338,candy,2014-10-25
+4339,domestic eggs,2014-11-20
+4340,berries,2014-10-27
+4341,chocolate marshmallow,2014-12-02
+4342,whipped/sour cream,2014-10-27
+4343,rolls/buns,2014-04-26
+4344,soda,2015-01-03
+4345,shopping bags,2014-07-16
+4347,margarine,2014-09-07
+4348,white bread,2014-11-02
+4349,brown bread,2014-11-22
+4351,house keeping products,2015-01-16
+4353,coffee,2014-12-07
+4354,oil,2015-01-16
+4355,pet care,2014-10-09
+4356,napkins,2015-01-12
+4357,whipped/sour cream,2014-07-09
+4358,coffee,2014-11-08
+4359,fruit/vegetable juice,2014-03-07
+4360,domestic eggs,2014-12-14
+4361,root vegetables,2014-07-14
+4362,seasonal products,2014-06-14
+4363,soda,2015-01-07
+4364,dessert,2015-01-17
+4364,dessert,2015-01-17
+4364,flour,2015-01-17
+4365,UHT-milk,2014-01-23
+4367,shopping bags,2014-09-28
+4368,yogurt,2014-05-22
+4369,yogurt,2015-01-02
+4370,long life bakery product,2014-12-02
+4371,butter,2014-05-24
+4372,dessert,2014-11-09
+4373,house keeping products,2014-07-07
+4374,fruit/vegetable juice,2014-09-19
+4375,frozen fish,2014-10-30
+4376,brown bread,2014-09-24
+4376,dog food,2014-09-24
+4376,salty snack,2014-09-24
+4377,dish cleaner,2014-06-05
+4378,flour,2014-05-10
+4379,sugar,2015-01-10
+4380,red/blush wine,2014-12-08
+4381,rolls/buns,2014-08-25
+4382,spices,2014-01-03
+4383,whipped/sour cream,2014-03-06
+4384,whipped/sour cream,2014-10-22
+4385,abrasive cleaner,2014-05-08
+4387,coffee,2014-12-23
+4388,rolls/buns,2014-08-16
+4389,soda,2014-10-31
+4390,coffee,2015-01-20
+4391,pork,2014-10-24
+4391,napkins,2014-10-24
+4392,whipped/sour cream,2014-10-07
+4393,coffee,2014-05-02
+4394,detergent,2014-11-13
+4396,shopping bags,2014-03-20
+4397,dessert,2014-12-27
+4398,long life bakery product,2014-12-03
+4400,butter milk,2014-01-31
+4401,whipped/sour cream,2014-09-10
+4402,cleaner,2014-09-10
+4403,other vegetables,2014-11-01
+4404,coffee,2014-10-10
+4406,domestic eggs,2015-01-02
+4406,whole milk,2015-01-02
+4406,artif. sweetener,2015-01-02
+4407,bottled water,2014-12-25
+4408,misc. beverages,2014-02-07
+4409,ice cream,2015-01-15
+4410,newspapers,2014-11-24
+4412,napkins,2014-11-03
+4413,margarine,2014-07-09
+4414,bottled water,2014-10-15
+4415,other vegetables,2014-08-22
+4416,brown bread,2014-07-30
+4416,newspapers,2014-07-30
+4418,processed cheese,2015-01-13
+4420,frozen potato products,2014-10-27
+4422,bottled water,2014-10-19
+4423,brown bread,2014-02-25
+4424,herbs,2014-08-31
+4426,coffee,2014-10-30
+4426,UHT-milk,2014-10-30
+4427,root vegetables,2015-01-14
+4427,spread cheese,2015-01-14
+4428,coffee,2014-08-16
+4430,cream cheese ,2014-05-21
+4431,soda,2014-12-06
+4432,candy,2014-04-12
+4433,margarine,2014-10-31
+4434,tropical fruit,2014-11-29
+4434,chocolate,2014-11-29
+4435,canned beer,2014-10-28
+4437,napkins,2014-11-13
+4439,tropical fruit,2015-01-01
+4440,root vegetables,2015-01-12
+4441,waffles,2014-12-12
+4442,margarine,2014-08-04
+4443,dishes,2014-10-19
+4444,canned beer,2014-09-07
+4445,other vegetables,2015-01-12
+4447,butter,2015-01-05
+4448,whole milk,2014-11-12
+4448,herbs,2014-11-12
+4449,salty snack,2014-11-12
+4450,rolls/buns,2014-10-31
+4451,fruit/vegetable juice,2014-11-23
+4453,whole milk,2014-07-11
+4455,rolls/buns,2014-09-10
+4456,soda,2014-01-05
+4457,cereals,2014-06-21
+4458,soda,2014-03-21
+4459,other vegetables,2014-12-08
+4460,sliced cheese,2015-01-05
+4461,white bread,2014-11-16
+4462,pickled vegetables,2014-09-21
+4463,bottled beer,2014-08-06
+4464,oil,2014-11-04
+4464,hard cheese,2014-11-04
+4465,soda,2014-12-29
+4466,soda,2014-07-14
+4467,soda,2014-11-12
+4468,sliced cheese,2014-12-03
+4469,tropical fruit,2014-11-29
+4470,liquor,2014-08-02
+4471,sliced cheese,2014-08-10
+4472,Instant food products,2014-11-10
+4473,canned beer,2014-12-21
+4474,yogurt,2014-07-18
+4475,brandy,2014-07-19
+4477,dessert,2014-10-14
+4478,rice,2014-06-20
+4479,rolls/buns,2014-11-25
+4480,chocolate,2014-12-06
+4481,fruit/vegetable juice,2014-11-08
+4482,cream cheese ,2014-12-18
+4483,whole milk,2014-03-07
+4484,canned fish,2014-06-06
+4485,margarine,2014-11-13
+4486,herbs,2014-07-07
+4487,spread cheese,2014-08-18
+4487,whole milk,2014-08-18
+4488,specialty fat,2014-12-16
+4489,white bread,2014-05-24
+4490,bottled water,2014-01-21
+4491,bottled water,2014-09-18
+4492,rolls/buns,2014-11-25
+4493,margarine,2014-11-29
+4494,frozen dessert,2014-11-30
+4494,fruit/vegetable juice,2014-11-30
+4495,hamburger meat,2014-10-23
+4498,frozen meals,2014-07-22
+4499,canned vegetables,2014-12-20
+4500,cling film/bags,2014-11-15
+4501,dessert,2014-08-09
+4502,shopping bags,2014-09-13
+4504,bottled beer,2014-09-24
+4504,hygiene articles,2014-09-24
+4505,domestic eggs,2014-12-30
+4505,chocolate,2014-12-30
+4508,white bread,2014-11-29
+4509,shopping bags,2014-07-30
+4510,hard cheese,2014-12-03
+4511,rice,2014-09-15
+4512,hygiene articles,2014-12-08
+4513,shopping bags,2014-01-30
+4514,red/blush wine,2014-07-17
+4515,frankfurter,2014-06-23
+4515,curd,2014-06-23
+4517,coffee,2014-10-26
+4518,yogurt,2014-08-31
+4520,margarine,2014-11-02
+4522,soda,2014-05-27
+4523,red/blush wine,2014-11-07
+4524,curd,2014-04-17
+4525,bottled beer,2014-11-13
+4526,other vegetables,2015-01-18
+4526,whipped/sour cream,2015-01-18
+4527,frozen vegetables,2014-10-14
+4528,spread cheese,2014-06-27
+4529,other vegetables,2014-10-26
+4531,flour,2014-12-17
+4532,other vegetables,2014-11-30
+4533,candy,2014-10-17
+4534,pastry,2014-10-15
+4535,yogurt,2014-09-07
+4536,root vegetables,2014-11-05
+4537,brown bread,2015-01-01
+4538,hard cheese,2014-08-19
+4539,fruit/vegetable juice,2014-04-14
+4540,coffee,2014-12-26
+4541,semi-finished bread,2014-07-10
+4542,coffee,2015-01-18
+4543,hard cheese,2014-11-05
+4544,cake bar,2014-10-29
+4546,pickled vegetables,2014-10-18
+4547,dishes,2015-01-18
+4548,yogurt,2014-10-20
+4550,yogurt,2014-11-20
+4551,pastry,2014-07-01
+4553,salty snack,2014-04-11
+4554,napkins,2014-07-20
+4555,brown bread,2014-12-19
+4556,whipped/sour cream,2014-12-10
+4557,yogurt,2014-12-08
+4558,UHT-milk,2014-08-27
+4559,frozen vegetables,2014-01-09
+4560,other vegetables,2015-01-07
+4561,UHT-milk,2014-06-18
+4562,rolls/buns,2014-06-11
+4563,margarine,2014-05-20
+4564,yogurt,2014-11-10
+4566,red/blush wine,2014-10-31
+4567,coffee,2014-05-31
+4569,bottled beer,2014-12-24
+4570,canned vegetables,2014-04-04
+4571,dessert,2014-08-25
+4572,rolls/buns,2014-10-30
+4573,sliced cheese,2014-11-03
+4574,rolls/buns,2014-11-22
+4574,specialty fat,2014-11-22
+4575,whole milk,2014-08-04
+4576,napkins,2014-11-21
+4577,mayonnaise,2014-06-22
+4578,root vegetables,2014-12-08
+4579,waffles,2014-10-05
+4580,coffee,2014-12-10
+4581,sliced cheese,2014-05-08
+4582,root vegetables,2014-06-22
+4583,other vegetables,2014-06-06
+4584,whole milk,2014-08-29
+4585,cat food,2015-01-05
+4586,bottled water,2014-09-26
+4587,seasonal products,2014-05-23
+4588,whipped/sour cream,2014-07-28
+4589,whole milk,2014-09-11
+4590,soda,2014-08-19
+4591,sliced cheese,2014-11-07
+4592,newspapers,2014-06-20
+4594,bottled beer,2014-12-24
+4594,frozen vegetables,2014-12-24
+4595,salty snack,2014-11-06
+4596,dessert,2014-10-28
+4597,whipped/sour cream,2014-07-17
+4598,curd,2014-12-14
+4599,chocolate,2014-04-23
+4600,berries,2014-11-22
+4601,ketchup,2014-12-11
+4603,cat food,2014-12-02
+4604,soda,2014-12-19
+4606,salt,2014-07-11
+4607,specialty bar,2014-09-06
+4608,candy,2014-07-20
+4609,spices,2014-01-05
+4610,candy,2014-11-18
+4612,bottled beer,2014-08-09
+4613,domestic eggs,2014-07-17
+4614,sugar,2014-12-25
+4615,canned fish,2014-10-29
+4616,hamburger meat,2015-01-01
+4617,brown bread,2014-11-24
+4618,pickled vegetables,2014-11-18
+4620,bottled beer,2014-06-23
+4621,salt,2014-03-28
+4622,cream cheese ,2014-12-06
+4623,brandy,2014-12-18
+4623,whole milk,2014-12-18
+4624,margarine,2014-12-06
+4624,napkins,2014-12-06
+4625,whipped/sour cream,2014-03-01
+4626,potato products,2014-03-23
+4627,specialty chocolate,2014-02-22
+4628,ham,2014-12-15
+4628,UHT-milk,2014-12-15
+4629,yogurt,2014-11-23
+4630,canned fish,2014-06-29
+4631,soda,2014-02-25
+4632,soda,2014-09-18
+4633,specialty chocolate,2014-02-13
+4634,specialty chocolate,2014-10-05
+4635,margarine,2014-10-17
+4636,salt,2014-07-28
+4637,rolls/buns,2014-08-28
+4638,photo/film,2014-11-10
+4639,hygiene articles,2014-11-22
+4640,bottled water,2014-03-11
+4641,whole milk,2014-11-05
+4642,domestic eggs,2014-12-17
+4643,bottled water,2014-09-03
+4645,other vegetables,2014-12-13
+4645,brown bread,2014-12-13
+4646,other vegetables,2014-12-28
+4648,whipped/sour cream,2014-03-10
+4649,cream cheese ,2014-10-09
+4649,waffles,2014-10-09
+4650,soda,2014-12-14
+4650,shopping bags,2014-12-14
+4651,sugar,2014-10-01
+4652,hygiene articles,2014-11-09
+4652,popcorn,2014-11-09
+4653,yogurt,2014-09-11
+4654,soda,2014-09-14
+4655,oil,2014-11-14
+4656,onions,2015-01-11
+4656,coffee,2015-01-11
+4657,sausage,2015-01-14
+4657,yogurt,2015-01-14
+4658,frozen vegetables,2014-07-26
+4659,pasta,2014-12-26
+4660,yogurt,2014-10-16
+4661,rolls/buns,2015-01-03
+4661,organic products,2015-01-03
+4662,bottled water,2014-05-20
+4663,whole milk,2014-04-18
+4664,rolls/buns,2014-03-01
+4665,rolls/buns,2014-12-01
+4666,bottled water,2014-11-26
+4667,waffles,2014-08-31
+4668,frozen vegetables,2015-01-02
+4669,domestic eggs,2014-05-08
+4670,whole milk,2014-01-28
+4671,whole milk,2015-01-08
+4671,rolls/buns,2015-01-08
+4672,chocolate,2014-11-21
+4673,processed cheese,2014-10-12
+4674,whole milk,2014-05-31
+4675,rolls/buns,2015-01-16
+4676,shopping bags,2015-01-15
+4676,shopping bags,2015-01-15
+4678,soap,2014-03-13
+4679,whipped/sour cream,2014-09-18
+4679,detergent,2014-09-18
+4680,soda,2014-06-04
+4681,napkins,2014-10-31
+4682,toilet cleaner,2014-04-21
+4683,red/blush wine,2014-11-11
+4683,frankfurter,2015-01-15
+4683,tropical fruit,2015-01-15
+4684,white bread,2014-11-21
+4684,shopping bags,2014-11-21
+4685,pet care,2014-09-29
+4686,margarine,2014-11-24
+4687,cat food,2015-01-13
+4688,hard cheese,2015-01-08
+4688,frozen vegetables,2015-01-08
+4689,pastry,2014-11-28
+4690,condensed milk,2014-12-20
+4691,specialty chocolate,2014-08-05
+4692,hygiene articles,2014-10-08
+4693,bottled beer,2015-01-07
+4694,rolls/buns,2014-05-12
+4695,butter,2014-12-22
+4696,whole milk,2014-08-09
+4697,bottled water,2014-07-05
+4698,curd,2014-07-24
+4699,red/blush wine,2015-01-08
+4699,rolls/buns,2015-01-08
+4700,baking powder,2014-10-19
+4703,yogurt,2014-10-20
+4704,other vegetables,2014-07-11
+4705,pot plants,2014-12-04
+4706,cream cheese ,2014-03-31
+4707,fruit/vegetable juice,2014-10-06
+4708,frozen fish,2014-09-11
+4709,root vegetables,2014-09-03
+4710,domestic eggs,2014-08-04
+4711,domestic eggs,2014-06-21
+4712,other vegetables,2014-12-14
+4712,whipped/sour cream,2014-12-14
+4713,newspapers,2014-06-27
+4714,bottled water,2014-06-20
+4715,newspapers,2014-11-24
+4715,newspapers,2014-11-24
+4716,bottled beer,2015-01-03
+4717,salty snack,2014-06-23
+4718,hygiene articles,2014-08-03
+4719,pip fruit,2015-01-06
+4720,baking powder,2014-10-01
+4721,rolls/buns,2014-06-24
+4721,rolls/buns,2014-06-24
+4722,yogurt,2014-12-02
+4723,rice,2014-08-28
+4725,cat food,2015-01-09
+4726,tropical fruit,2015-01-03
+4727,beverages,2014-12-04
+4728,instant coffee,2014-11-06
+4729,fruit/vegetable juice,2014-12-27
+4730,sliced cheese,2014-11-26
+4732,napkins,2014-03-12
+4733,bottled beer,2015-01-19
+4735,curd,2015-01-04
+4735,whole milk,2015-01-04
+4736,curd,2014-10-02
+4738,dog food,2014-08-06
+4739,soda,2014-04-12
+4740,dog food,2014-10-10
+4741,chewing gum,2014-10-12
+4743,coffee,2014-07-07
+4744,hamburger meat,2015-01-20
+4745,long life bakery product,2014-08-20
+4746,bottled water,2014-12-02
+4747,softener,2014-11-05
+4748,whole milk,2014-04-19
+4749,dessert,2014-11-09
+4750,whipped/sour cream,2014-11-04
+4751,rolls/buns,2014-11-29
+4752,whipped/sour cream,2014-04-03
+4753,frozen potato products,2014-11-10
+4756,red/blush wine,2014-10-12
+4758,spices,2014-11-15
+4759,frozen vegetables,2014-01-24
+4760,dishes,2014-12-16
+4761,curd,2015-01-03
+4762,pastry,2014-08-07
+4762,newspapers,2014-08-07
+4763,bottled beer,2014-09-29
+4764,whipped/sour cream,2014-08-28
+4765,curd,2015-01-07
+4766,oil,2014-09-25
+4769,dishes,2014-10-07
+4770,soda,2014-05-15
+4771,newspapers,2014-12-26
+4772,tropical fruit,2014-12-19
+4772,soda,2014-12-19
+4773,curd,2014-12-16
+4773,bottled beer,2014-12-16
+4774,whipped/sour cream,2014-07-24
+4775,softener,2014-03-29
+4778,hamburger meat,2015-01-15
+4779,pip fruit,2014-07-05
+4779,pastry,2014-07-05
+4780,candy,2014-09-03
+4781,sugar,2014-05-18
+4782,rolls/buns,2014-12-10
+4783,other vegetables,2015-01-06
+4784,soft cheese,2014-10-28
+4785,brown bread,2014-09-16
+4786,dish cleaner,2014-11-30
+4787,frozen vegetables,2015-01-08
+4788,candy,2014-10-02
+4789,margarine,2014-12-08
+4790,frozen vegetables,2014-07-09
+4791,fruit/vegetable juice,2014-04-02
+4792,bottled water,2014-10-16
+4793,pastry,2014-12-14
+4794,bottled beer,2014-11-11
+4796,soda,2014-08-01
+4797,sparkling wine,2014-11-30
+4798,popcorn,2014-05-19
+4799,other vegetables,2014-08-08
+4799,curd cheese,2014-08-08
+4800,butter,2014-12-29
+4800,tea,2014-12-29
+4801,dishes,2014-03-10
+4802,cooking chocolate,2014-10-08
+4803,canned beer,2014-12-30
+4804,bottled beer,2014-11-26
+4806,domestic eggs,2014-09-13
+4807,frozen fish,2014-05-21
+4808,yogurt,2014-11-20
+4809,sugar,2014-07-13
+4811,newspapers,2014-12-09
+4812,candy,2014-09-06
+4813,pastry,2014-11-20
+4814,grapes,2014-08-26
+4814,long life bakery product,2014-08-26
+4815,coffee,2014-01-24
+4817,liquor,2014-10-14
+4818,sliced cheese,2014-07-01
+4819,rolls/buns,2015-01-10
+4820,citrus fruit,2015-01-18
+4820,chocolate,2015-01-18
+4821,white bread,2014-12-12
+4822,coffee,2014-08-21
+4823,rolls/buns,2014-09-16
+4824,newspapers,2014-06-19
+4825,bottled water,2015-01-17
+4826,whole milk,2015-01-17
+4827,newspapers,2014-11-08
+4828,root vegetables,2014-11-30
+4828,salty snack,2014-11-30
+4830,dish cleaner,2014-12-23
+4831,bottled beer,2014-08-16
+4832,soda,2014-12-18
+4833,whole milk,2014-08-17
+4835,margarine,2014-05-12
+4836,salty snack,2014-05-28
+4837,long life bakery product,2014-12-17
+4838,honey,2014-09-08
+4839,sweet spreads,2014-10-03
+4840,fruit/vegetable juice,2014-11-22
+4842,hamburger meat,2014-10-19
+4842,shopping bags,2014-10-19
+4845,fruit/vegetable juice,2014-10-07
+4846,rolls/buns,2014-10-28
+4847,whole milk,2014-10-16
+4849,sliced cheese,2014-04-14
+4850,pastry,2014-03-26
+4851,grapes,2014-08-11
+4852,condensed milk,2014-12-23
+4853,other vegetables,2014-12-24
+4854,bottled beer,2014-12-23
+4855,liquor,2015-01-05
+4855,sweet spreads,2015-01-05
+4856,domestic eggs,2015-01-18
+4857,misc. beverages,2014-03-03
+4858,whole milk,2014-08-17
+4859,curd,2014-07-06
+4860,newspapers,2014-11-14
+4860,shopping bags,2014-11-14
+4861,other vegetables,2014-03-23
+4862,beef,2014-12-10
+4862,white bread,2014-12-10
+4863,sugar,2014-03-09
+4864,oil,2015-01-12
+4865,other vegetables,2014-11-17
+4866,other vegetables,2014-09-16
+4867,beef,2014-09-30
+4868,bottled water,2014-12-24
+4868,soda,2014-12-24
+4869,margarine,2014-09-21
+4870,root vegetables,2014-06-30
+4871,frozen fish,2014-07-07
+4872,shopping bags,2014-10-24
+4872,baking powder,2014-10-24
+4873,newspapers,2014-03-22
+4874,bottled water,2014-02-21
+4875,chocolate,2014-05-06
+4876,tidbits,2014-05-14
+4877,salty snack,2014-08-27
+4878,whipped/sour cream,2014-09-13
+4879,root vegetables,2014-12-04
+4880,cat food,2014-11-09
+4881,butter,2014-12-30
+4882,fruit/vegetable juice,2014-08-10
+4883,frozen fish,2015-01-16
+4884,coffee,2014-01-30
+4886,sliced cheese,2014-09-18
+4887,chocolate,2014-12-11
+4888,sauces,2014-04-06
+4890,sugar,2014-11-30
+4891,cream cheese ,2014-02-06
+4892,herbs,2014-12-27
+4893,napkins,2015-01-03
+4894,fruit/vegetable juice,2014-09-23
+4895,specialty bar,2015-01-06
+4896,sweet spreads,2014-05-03
+4897,canned fish,2014-11-25
+4898,margarine,2014-10-09
+4899,rolls/buns,2014-10-05
+4900,pickled vegetables,2014-04-05
+4901,snack products,2014-12-04
+4902,rolls/buns,2014-11-21
+4903,fruit/vegetable juice,2015-01-05
+4904,frozen vegetables,2014-06-12
+4906,brandy,2014-11-03
+4907,bottled beer,2014-01-02
+4908,kitchen towels,2014-11-13
+4909,spread cheese,2014-07-20
+4910,mayonnaise,2014-11-27
+4911,domestic eggs,2014-07-20
+4913,brown bread,2015-01-08
+4914,chocolate marshmallow,2014-04-15
+4915,yogurt,2014-11-01
+4915,rolls/buns,2014-11-01
+4916,detergent,2015-01-03
+4917,rolls/buns,2014-05-30
+4920,canned fish,2014-09-10
+4922,whole milk,2014-12-07
+4923,domestic eggs,2014-12-26
+4924,chewing gum,2015-01-03
+4925,pip fruit,2014-12-18
+4925,rolls/buns,2014-12-18
+4926,salty snack,2014-11-20
+4927,soda,2014-04-13
+4929,waffles,2014-08-05
+4930,dessert,2014-08-13
+4931,margarine,2014-09-26
+4931,waffles,2014-09-26
+4932,brown bread,2014-05-14
+4933,curd,2014-07-30
+4933,UHT-milk,2014-11-28
+4933,domestic eggs,2014-11-28
+4934,bottled beer,2014-10-13
+4935,cling film/bags,2014-03-19
+4937,hard cheese,2014-09-30
+4938,mayonnaise,2014-10-13
+4939,brown bread,2014-09-17
+4940,dessert,2014-08-20
+4941,hamburger meat,2015-01-15
+4941,pickled vegetables,2015-01-15
+4941,salty snack,2015-01-15
+4941,soda,2015-01-15
+4942,frozen vegetables,2014-01-01
+4943,rolls/buns,2014-10-22
+4944,dishes,2014-08-26
+4946,other vegetables,2014-06-24
+4947,rum,2014-11-24
+4948,curd,2014-05-23
+4950,soft cheese,2014-08-30
+4951,cream,2014-10-27
+4952,curd,2014-07-15
+4953,rolls/buns,2014-10-23
+4954,root vegetables,2014-07-18
+4955,sliced cheese,2014-10-21
+4956,pot plants,2014-11-20
+4957,butter,2014-05-19
+4958,specialty chocolate,2014-10-05
+4959,other vegetables,2014-12-30
+4959,specialty chocolate,2014-12-30
+4960,chewing gum,2014-10-28
+4961,candy,2014-02-11
+4962,pip fruit,2014-10-17
+4963,whole milk,2014-12-29
+4965,whole milk,2014-12-23
+4966,margarine,2014-12-30
+4967,chocolate,2014-09-16
+4968,canned vegetables,2014-05-11
+4969,sausage,2014-10-27
+4969,other vegetables,2014-10-27
+4970,whipped/sour cream,2014-08-22
+4971,hygiene articles,2014-07-11
+4972,citrus fruit,2014-12-21
+4972,frozen vegetables,2014-12-21
+4973,newspapers,2014-05-28
+4974,seasonal products,2014-07-18
+4975,curd,2014-10-02
+4978,grapes,2014-01-18
+4979,whole milk,2014-11-18
+4980,domestic eggs,2014-08-25
+4981,specialty chocolate,2014-02-26
+4982,butter,2015-01-08
+4983,baking powder,2014-12-13
+4984,domestic eggs,2014-07-06
+4985,pickled vegetables,2014-12-03
+4986,other vegetables,2015-01-02
+4987,cream cheese ,2014-12-04
+4988,frozen vegetables,2014-12-13
+4989,butter,2014-11-08
+4990,baking powder,2014-04-15
+4991,other vegetables,2014-12-22
+4991,root vegetables,2014-12-22
+4992,pip fruit,2015-01-03
+4993,detergent,2014-08-19
+4995,dish cleaner,2014-03-16
+4997,canned beer,2014-05-01
+4999,newspapers,2014-09-04
+5000,other vegetables,2014-11-16

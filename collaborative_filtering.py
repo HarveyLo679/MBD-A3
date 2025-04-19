@@ -14,14 +14,7 @@ class CFRecommender:
         self.train()
         
     def load_df(self):
-        df = pd.read_csv(self.data_path)
-        df = df.dropna()
-        df['User_id'] = df['User_id'].astype('int')
-        df['year'] = df['year'].astype('int')
-        df['month'] = df['month'].astype('int')
-        df['day'] = df['day'].astype('int')
-        
-        self.df = df
+        self.df = pd.read_csv(self.data_path)
         
     def preprocess_df(self):
         # Implicit feedback
@@ -34,9 +27,9 @@ class CFRecommender:
         
         # Prepare data for SVD
         reader = Reader(rating_scale=(0, 1))
-        train_data_surprise = Dataset.load_from_df(self.train_df[['User_id', 'itemDescription', 'purchase']], reader)
+        train_data_surprise = Dataset.load_from_df(self.train_df[['user_id', 'item_description', 'purchase']], reader)
         self.trainset = train_data_surprise.build_full_trainset()
-        self.testset = list(self.test_df[['User_id', 'itemDescription', 'purchase']].itertuples(index=False, name=None))
+        self.testset = list(self.test_df[['user_id', 'item_description', 'purchase']].itertuples(index=False, name=None))
         
     def train(self):
         self.load_df()
@@ -46,19 +39,24 @@ class CFRecommender:
         
     def handle_cold_start(self, top_n=5): # New user
         # Return most frequently bought items
-        popular_items = self.train_df['itemDescription'].value_counts().index[:top_n]
-        return [(item, 0.0) for item in popular_items]
+        return self.train_df['item_description'].value_counts().index[:top_n]
         
     def evaluate(self):
         return accuracy.rmse(self.svd.test(self.testset))
     
     def recommend(self, user_id, patterns=None, top_n=5, is_mock=False):
-        if user_id not in self.train_df['User_id'].unique():
-            print(f"Cold start for User ID {user_id}")
+        """
+        Recommend items for a given user_id.
+        :param user_id: ID of the user to recommend items for
+        :param patterns: List of tuple patterns to use for recommendations
+        :param top_n: Number of desired recommendations to return
+        :param is_mock: If True, use mock pattern-based recommendations"""
+        
+        if user_id not in self.train_df['user_id'].unique():
             return self.handle_cold_start(top_n)
 
-        user_items = set(self.train_df[self.train_df['User_id'] == user_id]['itemDescription'])
-        all_items = set(self.train_df['itemDescription'].unique())
+        user_items = set(self.train_df[self.train_df['user_id'] == user_id]['item_description'])
+        all_items = set(self.train_df['item_description'].unique())
         items_to_recommend = all_items - user_items
 
         # Collaborative Filtering Predictions
@@ -70,24 +68,29 @@ class CFRecommender:
             except:
                 continue
 
-        sorted_cf_recs = sorted(recommendations.items(), key=lambda x: x[1], reverse=True)
+        top_k_from_cf = sorted(recommendations.items(), key=lambda x: x[1], reverse=True)[:top_n]
 
         if not patterns and not is_mock:
-            return sorted_cf_recs[:top_n]
+            return top_k_from_cf
 
-        # MOCKED frequent-pattern fallback (replace with your actual pattern engine)
-        pattern_based = None
+        from_pattern_mining = None
         if is_mock:
-            pattern_based = self.mock_pattern_based(user_items)
+            from_pattern_mining = self.mock_pattern_based(user_items)
         else: 
-            pattern_based = patterns 
+            from_pattern_mining = patterns 
         
-        for item, score in pattern_based:
-            if item not in user_items and item not in recommendations:
-                recommendations[item] = score
-
-        final_sorted = sorted(recommendations.items(), key=lambda x: x[1], reverse=True)
-        return final_sorted[:top_n]
+        
+        # Filter out items already bought by the user and items already in CF recommendations
+        from_pattern_mining_filtered = [
+            (item, score) for item, score in from_pattern_mining if item not in user_items and item not in top_k_from_cf
+        ]
+        
+        # take half of the recommendations from CF and half from pattern mining, neglecting the score
+        final_results = []
+        final_results.extend(top_k_from_cf[:top_n // 2])
+        final_results.extend(from_pattern_mining_filtered[:top_n // 2])
+        
+        return final_results
 
     def mock_pattern_based(self, user_items):
         # Simulated rules: if user buys 'sugar' → recommend 'milk'
@@ -103,7 +106,7 @@ class CFRecommender:
         return recs
 
 if __name__ == "__main__":
-    recommender = CFRecommender("data/Groceries data train.csv")
+    recommender = CFRecommender("data/train.csv")
 
     while True:
         user_input = input("\nEnter User ID (or 'exit'): ").strip()

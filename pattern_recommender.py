@@ -7,15 +7,14 @@ import warnings
 warnings.filterwarnings("ignore")
 
 class PatternRecommender:
-    def __init__(self, raw_df):
+    def __init__(self, data_path):
+        
+        raw_df = pd.read_csv(data_path)
         self.raw_df = self.preprocess_raw_data(raw_df)
 
     def preprocess_raw_data(self, raw_df):
         df = raw_df.copy()
-        df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
-        df = df.dropna(subset=['user_id', 'itemdescription', 'date', 'year', 'month', 'day'])
-        df['user_id'] = df['user_id'].astype(int)
-        df['date'] = pd.to_datetime(df[['year', 'month', 'day']])
+        df['date'] = pd.to_datetime(df['date'])
         return df
 
     def filter_data(self, recent_days=None, user_id=None):
@@ -35,7 +34,7 @@ class PatternRecommender:
         return df, f"Global mode with recent {recent_days} days" if recent_days is not None else "Global mode with full data"
 
     def mining_patterns(self, df, min_support=0.0015):
-        transactions = df.groupby(['user_id', 'date'])['itemdescription'].apply(list).tolist()
+        transactions = df.groupby(['user_id', 'date'])['item_description'].apply(list).tolist()
         te = TransactionEncoder()
         te_ary = te.fit(transactions).transform(transactions)
         basket = pd.DataFrame(te_ary, columns=te.columns_)
@@ -50,7 +49,7 @@ class PatternRecommender:
         rules['lift_scaled'] = rules['lift'] / rules['lift'].max()
         rules['lev_scaled'] = rules['leverage'] / rules['leverage'].max()
         rules['NUS'] = rules['antecedents'].apply(lambda x: len(x))
-
+        
         return rules
 
     def recommend_from_rules(self, rules, user_items, top_k=5):
@@ -88,7 +87,7 @@ class PatternRecommender:
         ]))
 
         if len(recommended_items) < top_k:
-            popular_items = self.raw_df['itemdescription'].value_counts().index.tolist()
+            popular_items = self.raw_df['item_description'].value_counts().index.tolist()
             for item in popular_items:
                 if item not in recommended_items and item not in user_items:
                     recommended_items.append(item)
@@ -97,7 +96,7 @@ class PatternRecommender:
 
         return recommended_items[:top_k], top_rules
 
-    def raw_data_mining(self, user_id=None, recent_days=None, min_support=0.0015, top_k=5, pre_mined_rules=None):
+    def recommend(self, user_id=None, recent_days=None, min_support=0.0015, top_k=5, pre_mined_rules=None):
         user_id_str = str(user_id) if user_id is not None else None
         user_in_data = user_id_str in self.raw_df['user_id'].astype(str).unique() if user_id_str is not None else False
 
@@ -114,7 +113,7 @@ class PatternRecommender:
             filtered_df, msg = self.filter_data(recent_days=recent_days, user_id=user_id)
             if filtered_df is None or filtered_df.empty:
                 rules_subset = pre_mined_rules.sort_values(by='rec_value', ascending=False).head(top_k) if pre_mined_rules is not None else pd.DataFrame()
-                top_items = self.raw_df['itemdescription'].value_counts().head(top_k).index.tolist()
+                top_items = self.raw_df['item_description'].value_counts().head(top_k).index.tolist()
                 fallback_items = get_default_recommendations(rules_subset, top_items)
                 return {
                     'mode': 'user mode (but no records)',
@@ -126,7 +125,7 @@ class PatternRecommender:
             filtered_df, msg = self.filter_data(recent_days=recent_days)
             if filtered_df is None or filtered_df.empty:
                 rules_subset = pre_mined_rules.sort_values(by='rec_value', ascending=False).head(top_k) if pre_mined_rules is not None else pd.DataFrame()
-                top_items = self.raw_df['itemdescription'].value_counts().head(top_k).index.tolist()
+                top_items = self.raw_df['item_description'].value_counts().head(top_k).index.tolist()
                 fallback_items = get_default_recommendations(rules_subset, top_items)
                 return {
                     'mode': 'global mode (no data in recent_days)',
@@ -138,7 +137,7 @@ class PatternRecommender:
         rules = pre_mined_rules if pre_mined_rules is not None else self.mining_patterns(filtered_df, min_support=min_support)
 
         user_items = (
-            filtered_df[filtered_df['user_id'].astype(str) == str(user_id)]['itemdescription'].unique().tolist()
+            filtered_df[filtered_df['user_id'].astype(str) == str(user_id)]['item_description'].unique().tolist()
             if user_id is not None and user_in_data else []
         )
 
@@ -153,7 +152,7 @@ class PatternRecommender:
         result = {}
 
         if not recommended_items:
-            top_items = filtered_df['itemdescription'].value_counts().head(top_k).index.tolist()
+            top_items = filtered_df['item_description'].value_counts().head(top_k).index.tolist()
             fallback_items = get_default_recommendations(rules, top_items)
             result = {
                 'mode': 'user mode' if user_in_data else 'global mode',
