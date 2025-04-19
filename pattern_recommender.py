@@ -5,9 +5,11 @@ from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder
 import warnings
 warnings.filterwarnings("ignore")
+import pickle
 
 class PatternRecommender:
-    def __init__(self, raw_df):
+    def __init__(self, data_path):
+        raw_df = pd.read_csv(data_path)
         self.raw_df = self.preprocess_raw_data(raw_df)
 
     def preprocess_raw_data(self, raw_df):
@@ -15,6 +17,7 @@ class PatternRecommender:
         df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
         df = df.dropna(subset=['user_id', 'itemdescription', 'date', 'year', 'month', 'day'])
         df['date'] = pd.to_datetime(df[['year', 'month', 'day']])
+        df['User_id'] = df['User_id'].astype('int')
         return df
 
     def filter_data(self, recent_days=None, user_id=None):
@@ -59,12 +62,12 @@ class PatternRecommender:
         if matched_rules.empty:
             return [], pd.DataFrame()
 
-        matched_rules = matched_rules.sort_values(by=['combo_score', 'surprise_score', 'rec_value'], ascending=False)
+        matched_rules = matched_rules.sort_values(by=['combo_score', 'surprise_score', 'rec_value'], ascending=False) # combo_score, then surprise_score, then rec_value
         top_rules = matched_rules.head(top_k)
         recommended_items = list(pd.unique([item for items in top_rules['consequents'] for item in items if item not in user_items]))
         return recommended_items[:top_k], top_rules
 
-    def raw_data_mining(self, user_id=None, recent_days=None, min_support=0.0015, top_k=5, pre_mined_rules=None):
+    def recommend(self, user_id=None, recent_days=None, min_support=0.0015, top_k=5, is_pre_mined_rules=True):
         user_in_data = user_id in self.raw_df['user_id'].unique() if user_id is not None else False
 
         if user_in_data:
@@ -84,8 +87,10 @@ class PatternRecommender:
                     'reason': msg
                 }
 
-        if pre_mined_rules is not None:
-            rules = pre_mined_rules
+        if is_pre_mined_rules:
+            rules = None
+            with open("saved_rules.pkl", "rb") as f:
+                rules = pickle.load(f)
         else:
             rules = self.mining_patterns(filtered_df, min_support=min_support)
 
