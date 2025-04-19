@@ -1,10 +1,14 @@
 from surprise import Dataset, Reader, SVD, accuracy
 from sklearn.model_selection import train_test_split
 import pandas as pd
-
+import numpy as np
+import random
 class CFRecommender:
     def __init__(self, data_path):
         self.data_path = data_path
+        random.seed(42)
+        np.random.seed(42) 
+        
         self.svd = SVD()
         
         self.train()
@@ -48,7 +52,7 @@ class CFRecommender:
     def evaluate(self):
         return accuracy.rmse(self.svd.test(self.testset))
     
-    def recommend(self, user_id, use_patterns=False, top_n=5):
+    def recommend(self, user_id, patterns=None, top_n=5, is_mock=False):
         if user_id not in self.train_df['User_id'].unique():
             print(f"Cold start for User ID {user_id}")
             return self.handle_cold_start(top_n)
@@ -68,11 +72,16 @@ class CFRecommender:
 
         sorted_cf_recs = sorted(recommendations.items(), key=lambda x: x[1], reverse=True)
 
-        if not use_patterns:
+        if not patterns and not is_mock:
             return sorted_cf_recs[:top_n]
 
         # MOCKED frequent-pattern fallback (replace with your actual pattern engine)
-        pattern_based = self.mock_pattern_based(user_items)
+        pattern_based = None
+        if is_mock:
+            pattern_based = self.mock_pattern_based(user_items)
+        else: 
+            pattern_based = patterns 
+        
         for item, score in pattern_based:
             if item not in user_items and item not in recommendations:
                 recommendations[item] = score
@@ -109,7 +118,7 @@ if __name__ == "__main__":
         pattern_input = input("Use frequent patterns? (yes/no): ").strip().lower()
         use_patterns = pattern_input == 'yes'
 
-        recommendations = recommender.recommend(user_id, use_patterns, top_n=5)
+        recommendations = recommender.recommend(user_id, is_mock=True)
         print("======================================================")
         print(f"Top 5 recommendations for User ID {user_id} ({'with' if use_patterns else 'without'} patterns):")
         for item, score in recommendations:
