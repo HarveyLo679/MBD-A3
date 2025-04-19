@@ -50,19 +50,15 @@ class PatternRecommender:
         rules['lift_scaled'] = rules['lift'] / rules['lift'].max()
         rules['lev_scaled'] = rules['leverage'] / rules['leverage'].max()
         rules['NUS'] = rules['antecedents'].apply(lambda x: len(x))
-        
-        
 
         return rules
 
     def recommend_from_rules(self, rules, user_items, top_k=5):
-        ser_items = set(user_items)
-
+        user_items = set(user_items)
         if not user_items:
             return [], pd.DataFrame()
 
         rules = rules.copy()
-
         for col in ['rec_value', 'surprise_score']:
             min_val = rules[col].min()
             max_val = rules[col].max()
@@ -76,13 +72,11 @@ class PatternRecommender:
             return len(antecedents.intersection(user_items)) / len(antecedents) if antecedents else 0
 
         rules['match_strength'] = rules.apply(match_strength, axis=1)
-
         rules['user_rule_score'] = rules['match_strength'] * (
             0.6 * rules['rec_value_scaled'] + 0.4 * rules['surprise_score_scaled']
         )
 
         matched_rules = rules[rules['match_strength'] > 0].copy()
-
         if matched_rules.empty:
             return [], pd.DataFrame()
 
@@ -93,32 +87,52 @@ class PatternRecommender:
             item for items in top_rules['consequents'] for item in items if item not in user_items
         ]))
 
+        if len(recommended_items) < top_k:
+            popular_items = self.raw_df['itemdescription'].value_counts().index.tolist()
+            for item in popular_items:
+                if item not in recommended_items and item not in user_items:
+                    recommended_items.append(item)
+                if len(recommended_items) == top_k:
+                    break
+
         return recommended_items[:top_k], top_rules
 
     def raw_data_mining(self, user_id=None, recent_days=None, min_support=0.0015, top_k=5, pre_mined_rules=None):
         user_id_str = str(user_id) if user_id is not None else None
         user_in_data = user_id_str in self.raw_df['user_id'].astype(str).unique() if user_id_str is not None else False
 
+        def get_default_recommendations(rules, top_items, default_score=5.0):
+            fallback = []
+            exploded = rules.explode('consequents') if not rules.empty else pd.DataFrame()
+            for item in top_items:
+                match = exploded[exploded['consequents'] == item]
+                score = round(match['rec_value'].max(), 5) if not match.empty else default_score
+                fallback.append((item, score))
+            return fallback
+
         if user_in_data:
             filtered_df, msg = self.filter_data(recent_days=recent_days, user_id=user_id)
-
             if filtered_df is None or filtered_df.empty:
                 rules_subset = pre_mined_rules.sort_values(by='rec_value', ascending=False).head(top_k) if pre_mined_rules is not None else pd.DataFrame()
+                top_items = self.raw_df['itemdescription'].value_counts().head(top_k).index.tolist()
+                fallback_items = get_default_recommendations(rules_subset, top_items)
                 return {
                     'mode': 'user mode (but no records)',
-                    'recommended_items': self.raw_df['itemdescription'].value_counts().head(top_k).index.tolist(),
+                    'recommended_items': fallback_items,
                     'reason': msg,
-                    'top_rules': rules_subset[[
-                        'antecedents', 'consequents', 'support', 'confidence', 'lift',
-                        'combo_score', 'surprise_score', 'rec_value', 'NUS']].copy() if not rules_subset.empty else pd.DataFrame()
+                    'top_rules': rules_subset.copy() if not rules_subset.empty else pd.DataFrame()
                 }
         else:
             filtered_df, msg = self.filter_data(recent_days=recent_days)
             if filtered_df is None or filtered_df.empty:
+                rules_subset = pre_mined_rules.sort_values(by='rec_value', ascending=False).head(top_k) if pre_mined_rules is not None else pd.DataFrame()
+                top_items = self.raw_df['itemdescription'].value_counts().head(top_k).index.tolist()
+                fallback_items = get_default_recommendations(rules_subset, top_items)
                 return {
                     'mode': 'global mode (no data in recent_days)',
-                    'recommended_items': self.raw_df['itemdescription'].value_counts().head(top_k).index.tolist(),
-                    'reason': msg
+                    'recommended_items': fallback_items,
+                    'reason': msg,
+                    'top_rules': rules_subset.copy() if not rules_subset.empty else pd.DataFrame()
                 }
 
         rules = pre_mined_rules if pre_mined_rules is not None else self.mining_patterns(filtered_df, min_support=min_support)
@@ -127,8 +141,9 @@ class PatternRecommender:
             filtered_df[filtered_df['user_id'].astype(str) == str(user_id)]['itemdescription'].unique().tolist()
             if user_id is not None and user_in_data else []
         )
-      
+
         recommended_items, top_rules = self.recommend_from_rules(rules, user_items, top_k=top_k)
+
         item_scores = {}
         for _, row in top_rules.iterrows():
             for item in row['consequents']:
@@ -138,32 +153,25 @@ class PatternRecommender:
         result = {}
 
         if not recommended_items:
-            fallback_items = filtered_df['itemdescription'].value_counts().head(top_k).index.tolist()
+            top_items = filtered_df['itemdescription'].value_counts().head(top_k).index.tolist()
+            fallback_items = get_default_recommendations(rules, top_items)
             result = {
                 'mode': 'user mode' if user_in_data else 'global mode',
                 'recommended_items': fallback_items,
                 'reason': 'No matched rules, fallback to popular items',
-                'top_rules': rules.sort_values(by='rec_value', ascending=False).head(top_k)[[
-                    'antecedents', 'consequents', 'support', 'confidence', 'lift',
-                    'combo_score', 'surprise_score', 'rec_value', 'NUS']].copy()
+                'top_rules': rules.sort_values(by='rec_value', ascending=False).head(top_k).copy()
             }
         else:
             result = {
                 'mode': 'user mode with rules' if user_in_data else 'global mode with rules',
-                'recommended_items': [(item, round(item_scores[item], 5)) for item in recommended_items],
+                'recommended_items': [
+                    (item, round(item_scores[item], 5)) if item in item_scores else (item, 5.0)
+                    for item in recommended_items],
                 'reason': 'Rules matched and used',
-                'top_rules': top_rules[[
-                'antecedents', 'consequents', 'support', 'confidence', 'lift',
-                'combo_score', 'surprise_score', 'rec_value', 'NUS', 'user_rule_score'
-            ]].copy()
+                'top_rules': top_rules.copy()
             }
 
-        if user_id_str is not None and user_in_data:
-            result['user_rule_score'] = result['top_rules'][[
-                'antecedents', 'consequents', 'support', 'confidence', 'lift',
-                'combo_score', 'surprise_score', 'rec_value', 'user_rule_score'
-            ]]
-
         return result
+
 
 
